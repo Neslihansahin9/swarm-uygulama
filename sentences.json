@@ -1,0 +1,58 @@
+[
+    {
+      "id": 1,
+      "text": "Havacılık kuruluşlarının emniyet performanslarını sürekli olarak izlemelerini, yönetmelerini ve iyileştirmelerini sağlayan sistematik bir yaklaşımdır.",
+      "word": "Emniyet Yönetim Sistemi"
+    },
+    {
+      "id": 2,
+      "text": "Emniyet performans gösterge(leri) için verilen bir zaman aralığı üzerinden planlanmış veya amaçlanmış hedeflerdir.",
+      "word": "SPT"
+    },
+    {
+      "id": 3,
+      "text": "Emniyet Performans Göstergeleri",
+      "word": "SPI"
+    },
+    {
+      "id": 4,
+      "text": "Emniyet Yönetim Sistemi",
+      "word": "SMS"
+    },
+    {
+      "id": 5,
+      "text": "Uluslararası Sivil Havacılık Organizasyonu",
+      "word": "ICAO"
+    },
+    {
+      "id": 6,
+      "text": "Emniyet Raporlama Sistemi",
+      "word": "ERS"
+    },
+    {
+      "id": 7,
+      "text": "Kurumsal Risk Yönetim Sistemi",
+      "word": "KRYS"
+    },
+    {
+      "id": 8,
+      "text": "İstenmeyen bir olay ile karşılaşma olasılığı ve bu olasılık gerçekleştiğinde bunun yaratacağı etkinin ciddiyetinin bileşimidir.",
+      "word": "Risk"
+    },
+    {
+      "id": 9,
+      "text": "Planla-Uygula-Kontrol Et-Önlem Al",
+      "word": "PUKÖ döngüsü"
+    },
+    {
+      "id": 10,
+      "text": "Uçuş operasyonlarında potansiyel bir kazaya veya olaya yol açabilecek herhangi bir durum, nesne veya faaliyet.",
+      "word": "Tehlike"
+    },
+    {
+      "id": 11,
+      "text": "Kuruluşun tüm seviyelerinde emniyeti öncelik olarak kabul eden, sürekli öğrenmeye ve iyileştirmeye açık olan kültür.",
+      "word": "Emniyet Kültürü"
+    }
+  ]
+  
