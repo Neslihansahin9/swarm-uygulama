@@ -1,0 +1,4736 @@
+{
+  "A_departmani": {
+    "kolay_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "1. SSP, aşağıdaki unsurlardan hangisini içermelidir?",
+          "secenekler": [
+            "Hava trafik hizmetleri",
+            "Emniyet gözetimi",
+            "Devlet emniyet politikası ve amaçları",
+            "Hava aracı imalatı",
+            "Uçuş eğitimi kuruluşları"
+          ],
+          "dogru_secenek": "Devlet emniyet politikası ve amaçları",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "SSP'nin uygulanmasına ve idame ettirilmesiyle ilgili çerçeve hangi belgede yer almaktadır?",
+          "secenekler": ["Ek 6", "Doc 8984", "Doc 9859", "Ek 19", "İlave A"],
+          "dogru_secenek": "İlave A",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Hangi kuruluşlar, bir Devletin SSP'si kapsamında bir SMS uygulamasını gerekli kılar?",
+          "secenekler": [
+            "İşletme yönetimi firmaları",
+            "Sertifikalandırılmış havaalanları",
+            "Tıbbi laboratuvarlar",
+            "Eğitim kuruluşları",
+            "Turizm şirketleri"
+          ],
+          "dogru_secenek": "Eğitim kuruluşları",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet gözetim sistemi hangi belgeye uygun olarak tesis edilir?",
+          "secenekler": ["Ek 6", "Doc 8984", "Doc 9859", "Ek 19", "Ek 1"],
+          "dogru_secenek": "Ek 1",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Hangi belge, kabul edilebilir emniyet performansı seviyesinin tanımlanmasına ilişkin kılavuz ilkeleri içerir?",
+          "secenekler": ["Ek 6", "Doc 8984", "Doc 9859", "Ek 19", "Ek 1"],
+          "dogru_secenek": "Doc 9859",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "SSP'nin temel unsurlarından biri hangisidir?",
+          "secenekler": [
+            "Ekonomik analizler",
+            "Maliyet etkinlik",
+            "Devlet emniyet politikası ve amaçları",
+            "Pazar araştırması",
+            "Rekabet analizi"
+          ],
+          "dogru_secenek": "Devlet emniyet politikası ve amaçları",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "ATS sağlayıcısının SMS'si kapsamına hangi hizmetler dahil edilir?",
+          "secenekler": [
+            "Bakım hizmetleri",
+            "Hava trafik hizmetleri",
+            "Sivil savunma hizmetleri",
+            "Lojistik hizmetler",
+            "Enerji tedarik hizmetleri"
+          ],
+          "dogru_secenek": "Hava trafik hizmetleri",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Hangi durumda, bir Devletin kendi SSP'si kapsamında sertifikalandırılmış havaalanlarının işleticilerinin SMS uygulamaları gerekli olacaktır?",
+          "secenekler": [
+            "Yolcu sayısının belirli bir sayının üzerinde olduğu durumda",
+            "İşletmenin karlılığının belirli bir seviyenin altında olduğu durumda",
+            "Havaalanının uluslararası uçuşlara açık olduğu durumda",
+            "Havaalanının bakımının yapılacağı durumda",
+            "Havaalanının yeni bir terminal binasının açılacağı durumda"
+          ],
+          "dogru_secenek": "Havaalanının uluslararası uçuşlara açık olduğu durumda",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Hangi durumda, bir ATS sağlayıcısının SMS'si kapsamına giren ilgili hizmetler veya doğrudan operasyonel etkilere sahip olan hizmetler ATS sağlayıcısının yetkisi kapsamına dahil edilir?",
+          "secenekler": [
+            "ATS sağlayıcısı, hizmetlerin bir kısmını başka bir kuruluşa devrettiğinde",
+            "ATS sağlayıcısı, hizmetlerin tamamını başka bir kuruluşa devrettiğinde",
+            "ATS sağlayıcısı, hizmetlerin tamamını kendi bünyesinde sağladığında",
+            "ATS sağlayıcısı, hizmetlerin bir kısmını kendi bünyesinde sağladığında",
+            "ATS sağlayıcısı, hizmetlerin tamamını bir devlete devrettiğinde"
+          ],
+          "dogru_secenek": "ATS sağlayıcısı, hizmetlerin bir kısmını kendi bünyesinde sağladığında",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "SSP'nin uygulanması ve idame ettirilmesi için hangi belge rehber olarak kullanılır?",
+          "secenekler": ["Ek 6", "Doc 8984", "Doc 9859", "Ek 19", "İlave A"],
+          "dogru_secenek": "Doc 9859",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "Risk yönetimi genel olarak nedir?",
+          "secenekler": [
+            "İstenmeyen olayların gerçekleşme olasılığını kabul edilebilir seviyede tutmak ve yönetmek.",
+            "İstenmeyen olayların gerçekleşmesine izin vermek.",
+            "Olayları kontrol altına almak.",
+            "Olası riskleri artırmak.",
+            "İstenmeyen olayları teşvik etmek."
+          ],
+          "dogru_secenek": "İstenmeyen olayların gerçekleşme olasılığını kabul edilebilir seviyede tutmak ve yönetmek.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet riski yönetimi neyi amaçlar?",
+          "secenekler": [
+            "Sadece finansal riskleri yönetmek.",
+            "Yalnızca doğal afet risklerini yönetmek.",
+            "Emniyetle bağlantılı riskleri yönetmek.",
+            "Ticari riskleri yönetmek.",
+            "Riskleri görmezden gelmek."
+          ],
+          "dogru_secenek": "Emniyetle bağlantılı riskleri yönetmek.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet riski nedir?",
+          "secenekler": [
+            "İstenmeyen olayların gerçekleşme olasılığı.",
+            "İstenmeyen olayların gerçekleşmesi.",
+            "İstenmeyen olayların sonuçları.",
+            "İstenmeyen olayların önlenmesi.",
+            "İstenmeyen olayların hoşgörülmesi."
+          ],
+          "dogru_secenek": "İstenmeyen olayların gerçekleşme olasılığı.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Tehlikelerin sonuçlarının önemi neden önemlidir?",
+          "secenekler": [
+            "Risklerin sınırlarını belirler.",
+            "Risklerin kabul edilebilirlik seviyesini belirler.",
+            "Risklerin göz ardı edilip edilmeyeceğini belirler.",
+            "Risklerin tahammül edilebilirlik seviyesini belirler.",
+            "Risklerin artışını sağlar."
+          ],
+          "dogru_secenek": "Risklerin kabul edilebilirlik seviyesini belirler.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Risk kontrolü stratejilerinden biri olan 'kaçınma' neyi ifade eder?",
+          "secenekler": [
+            "Riskleri sıfıra indirmeyi.",
+            "Tehlikeli faaliyetlerden kaçınmayı.",
+            "Riskleri kabul etmeyi.",
+            "Riskleri artırmayı.",
+            "Riskleri gizlemeyi."
+          ],
+          "dogru_secenek": "Tehlikeli faaliyetlerden kaçınmayı.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet riski yönetimi neyi amaçlar?",
+          "secenekler": [
+            "Finansal riskleri artırmayı.",
+            "Emniyetle bağlantılı riskleri yönetmeyi.",
+            "Riskleri göz ardı etmeyi.",
+            "Riskleri artırmayı.",
+            "Riskleri gizlemeyi."
+          ],
+          "dogru_secenek": "Emniyetle bağlantılı riskleri yönetmeyi.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet riski yönetimi hangi süreci ifade eder?",
+          "secenekler": [
+            "Bir sonucu.",
+            "Bir süreci.",
+            "Bir kavramı.",
+            "Bir tehdidi.",
+            "Bir sonuçları."
+          ],
+          "dogru_secenek": "Bir süreci.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "ALARP prensibi ne anlama gelir?",
+          "secenekler": [
+            "Tüm risklerin kabul edilmesi.",
+            "Risklerin sıfıra indirilmesi.",
+            "Risklerin makul düzeyde azaltılması.",
+            "Risklerin göz ardı edilmesi.",
+            "Risklerin artırılması."
+          ],
+          "dogru_secenek": "Risklerin makul düzeyde azaltılması.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Tehlikelerin sonuçlarının önemi neden önemlidir?",
+          "secenekler": [
+            "Risklerin sınırlarını belirler.",
+            "Risklerin kabul edilebilirlik seviyesini belirler.",
+            "Risklerin göz ardı edilip edilmeyeceğini belirler.",
+            "Risklerin tahammül edilebilirlik seviyesini belirler.",
+            "Risklerin artışını sağlar."
+          ],
+          "dogru_secenek": "Risklerin kabul edilebilirlik seviyesini belirler.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Risk kontrolü stratejilerinden biri olan 'azaltma' neyi ifade eder?",
+          "secenekler": [
+            "Riskleri sıfıra indirmeyi.",
+            "Tehlikeli faaliyetlerden kaçınmayı.",
+            "Riskleri kabul etmeyi.",
+            "Riskleri azaltmayı.",
+            "Riskleri artırmayı."
+          ],
+          "dogru_secenek": "Riskleri azaltmayı.",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "Havacılık emniyetindeki temel kavram nedir?",
+          "secenekler": ["Kar", "Emniyet", "Büyüme", "Kaza", "İhlal"],
+          "dogru_secenek": "Emniyet",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "Havacılıkta 'SHEL' modeli neyi temsil eder?",
+          "secenekler": [
+            "Pilot eğitimi",
+            "Havacılık kuralları",
+            "İnsan faktörleri",
+            "Hava aracı donanımı",
+            "Uçuş ekipmanları"
+          ],
+          "dogru_secenek": "İnsan faktörleri",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Havacılık emniyetinin önemli unsurlarından biri olan 'tehlike' nedir?",
+          "secenekler": [
+            "Kaza sonrası araştırma",
+            "Sistem içindeki hatalar",
+            "Olumsuz sonuç potansiyeli olan durum",
+            "Havaalanı yaklaşma koridoru",
+            "Pist uzunluğu"
+          ],
+          "dogru_secenek": "Olumsuz sonuç potansiyeli olan durum",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet yönetim sistemi (SMS) oluştururken dikkate alınması gereken temel ilke nedir?",
+          "secenekler": [
+            "Riskleri artırmak",
+            "Emniyeti ikinci plana atmak",
+            "Personel eğitimlerini ihmal etmek",
+            "Sürekli iyileştirmeyi hedeflemek",
+            "Riskleri önemsememek"
+          ],
+          "dogru_secenek": "Sürekli iyileştirmeyi hedeflemek",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Havacılıkta 'proaktif' yaklaşım neyi ifade eder?",
+          "secenekler": [
+            "Kaza sonrası analiz",
+            "Önleyici tedbirler almak",
+            "Hataları kabullenmek",
+            "İhlalleri teşvik etmek",
+            "Riskleri artırmak"
+          ],
+          "dogru_secenek": "Önleyici tedbirler almak",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Havacılık kuruluşlarının tehlike analizi yaparken kullandığı tekniklerden biri hangisidir?",
+          "secenekler": [
+            "İlk yardım eğitimi",
+            "Araç bakımı",
+            "Trend analizi",
+            "Seyrüsefer kılavuzları",
+            "Ticari pazarlama stratejileri"
+          ],
+          "dogru_secenek": "Trend analizi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet yönetimi açısından, 'üretim' ve 'koruma' hedefleri arasındaki dengeyi sağlamak neden önemlidir?",
+          "secenekler": [
+            "İhlalleri artırmak için",
+            "Maliyetleri azaltmak için",
+            "Emniyeti güvence altına almak için",
+            "Riskleri artırmak için",
+            "Kârı maksimize etmek için"
+          ],
+          "dogru_secenek": "Emniyeti güvence altına almak için",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "'Tehlike' ile 'risk' arasındaki temel fark nedir?",
+          "secenekler": [
+            "Birbirlerinin eş anlamlısıdır",
+            "Tehlike, riskin sonucudur",
+            "Tehlike, olumsuz sonuç potansiyeli taşırken, risk belirli bir tehlikenin gerçekleşme olasılığıdır",
+            "Tehlike, riski azaltır",
+            "Tehlike, riski artırır"
+          ],
+          "dogru_secenek": "Tehlike, olumsuz sonuç potansiyeli taşırken, risk belirli bir tehlikenin gerçekleşme olasılığıdır",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Havacılık emniyeti yönetiminin başarısını etkileyen faktörlerden biri nedir?",
+          "secenekler": [
+            "Personel eğitimi",
+            "Kâr maksimizasyonu",
+            "İhlal sayısının artması",
+            "Risk toleransının azalması",
+            "Reaktif yaklaşım"
+          ],
+          "dogru_secenek": "Personel eğitimi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Havacılık emniyeti için önemli bir bileşen olan 'insan faktörleri' neyi ifade eder?",
+          "secenekler": [
+            "Sadece pilotların davranışlarını",
+            "Sadece kabin ekibinin davranışlarını",
+            "İnsanların uçuş sistemlerine olan etkilerini",
+            "Sadece yer hizmetleri personelinin davranışlarını",
+            "Havayolu personelinin eğitimini"
+          ],
+          "dogru_secenek": "İnsanların uçuş sistemlerine olan etkilerini",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet Yönetim Sistemi (SMS) neyi amaçlar?",
+          "secenekler": [
+            "Havacılık faaliyetlerini düzenlemek",
+            "Emniyet politikasını belirlemek",
+            "Emniyet risklerini azaltmak",
+            "Havacılık personelini eğitmek",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet risklerini azaltmak",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet politikası, hangi unsurları içermelidir?",
+          "secenekler": [
+            "Yönetim taahhüdü, sorumluluk, ve kaynaklar",
+            "Finansal planlama ve strateji",
+            "Rekabet analizi ve pazar araştırması",
+            "Sosyal medya yönetimi ve pazarlama stratejisi",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Yönetim taahhüdü, sorumluluk, ve kaynaklar",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet risk yönetiminin bir parçası olarak neler yapılır?",
+          "secenekler": [
+            "Kaza raporları yayınlanır",
+            "Tehlikeler tanımlanır ve risk değerlendirmesi yapılır",
+            "Hava durumu tahmin edilir",
+            "Personel maaşları revize edilir",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Tehlikeler tanımlanır ve risk değerlendirmesi yapılır",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet güvencesi hangi faaliyetleri içerir?",
+          "secenekler": [
+            "Yemek servisi ve temizlik",
+            "Emniyet performansının izlenmesi ve değişiklik yönetimi",
+            "Müşteri memnuniyeti anketleri",
+            "Yerel etkinliklerin düzenlenmesi",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet performansının izlenmesi ve değişiklik yönetimi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyetin teşvik edilmesinin bir parçası olarak neler yapılır?",
+          "secenekler": [
+            "Müşterilere indirimler sunulur",
+            "Eğitim ve öğretim sağlanır, emniyet iletişimi yapılır",
+            "Çevre koruma projeleri yürütülür",
+            "Personel arasında rekabetçi oyunlar düzenlenir",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Eğitim ve öğretim sağlanır, emniyet iletişimi yapılır",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Aşağıdakilerden hangisi havacılık kazalarında en yaygın nedenlerden biri değildir?",
+          "secenekler": [
+            "Hava koşulları",
+            "Teknik arızalar",
+            "Yetersiz eğitim",
+            "Uçuş rotası",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Uçuş rotası",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "SMS kısaltması neyi ifade eder?",
+          "secenekler": [
+            "Sivil Mühendislik Servisi",
+            "Standart Mesaj Servisi",
+            "Emniyet Yönetim Sistemi",
+            "Seyahat Mesajlaşma Sistemi",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet Yönetim Sistemi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Hangisi emniyet yönetimiyle ilgili bir belge türü değildir?",
+          "secenekler": [
+            "Emniyet politikası",
+            "Emniyet el kitabı",
+            "Emniyet eğitimi sertifikası",
+            "Emniyet prosedürleri",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet eğitimi sertifikası",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet risk yönetimi sürecinde hangi adım önce gelir?",
+          "secenekler": [
+            "Tehlike tanımlama",
+            "Tehlike değerlendirmesi",
+            "Tehlikelerin kontrol altına alınması",
+            "Tehlikelerin azaltılması",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Tehlike tanımlama",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet performansının değerlendirilmesi için hangi göstergeler kullanılabilir?",
+          "secenekler": [
+            "Kazaların maliyeti",
+            "Müşteri memnuniyeti",
+            "Emniyet eğitimi süresi",
+            "Havayolu şirketinin geliri",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Müşteri memnuniyeti",
+          "puan": 10,
+          "gold": 5
+        }
+      ]
+    },
+    "orta_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "Hangisi 'emniyet performansı hedefi' ile ilgili doğru bir ifadedir?",
+          "secenekler": [
+            "Belirli bir zamanda kaza riskini artırmak için belirlenen hedef.",
+            "Emniyet göstergelerinin değerlendirilmesi için kullanılan parametre.",
+            "Emniyet risklerini önceden belirlemek amacıyla kullanılan veri tabanlı ölçüm.",
+            "Belirli bir süre içinde emniyet performansını artırmayı amaçlayan hedef.",
+            "Emniyet performansını düşürmek için belirlenen hedef."
+          ],
+          "dogru_secenek": "Belirli bir süre içinde emniyet performansını artırmayı amaçlayan hedef.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Hangisi 'ciddi yaralanma' olarak tanımlanan bir durumdur?",
+          "secenekler": [
+            "Bir yolcunun uçuş sırasında hafif şekilde başını çarpması.",
+            "Bir kabin görevlisinin servis sırasında ayak bileğini burkması.",
+            "Bir yolcunun iniş sırasında camdan dışarı bakarken ufak bir çizik alması.",
+            "Bir yolcunun uçuş sırasında bayılması ve acil müdahale gerektirmesi.",
+            "Bir yolcunun uçuş sırasında sinir yaralanması yaşaması ve doktor müdahalesi gerektirmesi."
+          ],
+          "dogru_secenek": "Bir yolcunun uçuş sırasında sinir yaralanması yaşaması ve doktor müdahalesi gerektirmesi.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Bir hava aracının 'kaybolması' ne anlama gelir?",
+          "secenekler": [
+            "Havaalanında park halinde olması.",
+            "Belirli bir süre boyunca iletişim kaybı yaşanması.",
+            "Uçuş sırasında rotasını değiştirmesi.",
+            "Yolculardan birinin havaalanında eşyasını kaybetmesi.",
+            "Uçuş sırasında hava trafik kontrolörü iletişimi kopması."
+          ],
+          "dogru_secenek": "Belirli bir süre boyunca iletişim kaybı yaşanması.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "'Operasyon personeli' kavramı hangi personeli içerir?",
+          "secenekler": [
+            "Yolcuları.",
+            "Yolculara servis yapanları.",
+            "Uçak tamircilerini.",
+            "Hava trafik kontrolörlerini.",
+            "Bagaj taşıyıcılarını."
+          ],
+          "dogru_secenek": "Uçak tamircilerini.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Bir hava aracının 'emniyet riski' neyi önceden belirlemeyi amaçlar?",
+          "secenekler": [
+            "Kabin personelinin eğitim seviyesini.",
+            "Yolcuların bagaj ağırlığını.",
+            "Uçuş ekibinin motivasyonunu.",
+            "Tehlikelerin vuku bulma ihtimalini ve sonuçlarını.",
+            "Hava aracının hızını."
+          ],
+          "dogru_secenek": "Tehlikelerin vuku bulma ihtimalini ve sonuçlarını.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet yönetim sistemi ile kalite yönetim sistemi arasındaki temel fark nedir?",
+          "secenekler": [
+            "Hedefledikleri sonuçlar",
+            "Uygulama alanları",
+            "Kuruluşların sorumlulukları",
+            "Düzeyleri",
+            "Denetim süreçleri"
+          ],
+          "dogru_secenek": "Hedefledikleri sonuçlar",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet politikası ve hedeflerinin altında neler yer alır?",
+          "secenekler": [
+            "İş sürekliliği planı",
+            "Acil müdahale planlaması",
+            "Yerel yönetmelikler",
+            "Müşteri talepleri",
+            "Çalışan memnuniyeti programı"
+          ],
+          "dogru_secenek": "Acil müdahale planlaması",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Havacılık emniyeti yönetimi kavramı ile ilgili olarak, SMS'nin temel amacı nedir?",
+          "secenekler": [
+            "Emniyet risklerini belirlemek ve kontrol altına almak",
+            "Havayolu bilet fiyatlarını düşürmek",
+            "Uçak bakım maliyetlerini azaltmak",
+            "Yolcu konforunu artırmak",
+            "Reklam kampanyaları oluşturmak"
+          ],
+          "dogru_secenek": "Emniyet risklerini belirlemek ve kontrol altına almak",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet performansı ölçümü ile ilgili olarak, hangisi doğrudur?",
+          "secenekler": [
+            "Apronda hız limiti aşımı ve yabancı madde hasarları ölçülebilir emniyet sonuçlarıdır.",
+            "Yolcu memnuniyet anketleri emniyet performansı ölçümünde kullanılan bir parametredir.",
+            "Emniyet performansı ölçümü, havacılık reklam bütçelerinin değerlendirilmesini içerir.",
+            "Emniyet performansı ölçümü, havaalanı terminalindeki yoğunluğu analiz etmeyi içerir."
+          ],
+          "dogru_secenek": "Apronda hız limiti aşımı ve yabancı madde hasarları ölçülebilir emniyet sonuçlarıdır.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "SMS'nin havacılık kuruluşlarına sağladığı avantajlar arasında aşağıdakilerden hangisi bulunmaz?",
+          "secenekler": [
+            "Emniyet performansının objektif olarak değerlendirilmesi",
+            "Personel maaşlarının artırılması",
+            "Emniyet yönetim sisteminin etkinliğinin artırılması",
+            "Havaalanı operasyonlarının iyileştirilmesi",
+            "Uçak bakım maliyetlerinin azaltılması"
+          ],
+          "dogru_secenek": "Personel maaşlarının artırılması",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "SMS'nin tanımlı sistem içerisindeki emniyet açıklarının ortaya çıkarılmasında kullanılan yöntem nedir?",
+          "secenekler": [
+            "GAP analizi",
+            "ICAO analizi",
+            "FAA analizi",
+            "SMS analizi"
+          ],
+          "dogru_secenek": "GAP analizi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "SMS'nin üç temel özelliğinden biri 'proaktif' olduğuna göre, ne tür bir yaklaşımı ifade eder?",
+          "secenekler": ["Geriye dönük", "Önleyici", "Reaktif", "İzleyici"],
+          "dogru_secenek": "Önleyici",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "SMS uygulama planları hangi faktörlere göre şekillendirilebilir?",
+          "secenekler": [
+            "Örgüt yapısı",
+            "Uçak sayısı",
+            "Pilot sayısı",
+            "Havaalanı büyüklüğü"
+          ],
+          "dogru_secenek": "Örgüt yapısı",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "SMS'nin belgelenmesi neden önemlidir?",
+          "secenekler": [
+            "Tehlikeleri gizlemek için",
+            "Emniyet açıklarını saklamak için",
+            "Sorumlulukları paylaşmak için",
+            "Sistemi açık ve şeffaf hale getirmek için"
+          ],
+          "dogru_secenek": "Sistemi açık ve şeffaf hale getirmek için",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet Yönetim Sistemi'nde GAP analizi hangi amaçla yapılır?",
+          "secenekler": [
+            "Emniyet politikasının oluşturulması",
+            "Tehlikelerin tanımlanması ve risklerin azaltılması",
+            "Maliyetlerin kontrolü",
+            "Pazar araştırması",
+            "Personel eğitimi"
+          ],
+          "dogru_secenek": "Tehlikelerin tanımlanması ve risklerin azaltılması",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Sorumlu müdürün emniyet politikası altındaki taahhütlerinden biri nedir?",
+          "secenekler": [
+            "Emniyet performansını geliştirmek",
+            "Pazarlama stratejilerini belirlemek",
+            "Personel gelişimine yatırım yapmak",
+            "Maliyetleri azaltmak",
+            "Sosyal medya etkileşimini artırmak"
+          ],
+          "dogru_secenek": "Emniyet performansını geliştirmek",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet hizmetleri biriminin (EHgörevlerinden biri hangisidir?",
+          "secenekler": [
+            "Reklam kampanyaları düzenlemek",
+            "Personel performansını değerlendirmek",
+            "Tehlike tanımlama sistemi yönetmek",
+            "Satış stratejileri oluşturmak",
+            "Finansal raporlama yapmak"
+          ],
+          "dogru_secenek": "Tehlike tanımlama sistemi yönetmek",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Acil müdahale planlaması hangi durumlar için uygulanır?",
+          "secenekler": [
+            "İnsan kaynakları planlaması",
+            "Ürün tasarımı",
+            "Emniyetle ilgili risklerin azaltılması",
+            "Rekabet stratejileri",
+            "Tedarikçi ilişkileri yönetimi"
+          ],
+          "dogru_secenek": "Emniyetle ilgili risklerin azaltılması",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet yöneticisinin sorumlulukları arasında hangisi yer alır?",
+          "secenekler": [
+            "Pazarlama stratejilerini belirlemek",
+            "Maliyet analizi yapmak",
+            "Tehlikelerle ilgili verileri analiz etmek",
+            "İnsan kaynakları yönetimi",
+            "Sosyal medya yönetimi"
+          ],
+          "dogru_secenek": "Tehlikelerle ilgili verileri analiz etmek",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet riski yönetimi sürecinde GAP analizi hangi aşamada yapılır?",
+          "secenekler": [
+            "Tehlike tanımlama toplantılarında",
+            "Emniyet güvencesi sürecinde",
+            "Değişiklik yönetimi aşamasında",
+            "Sistem tanımının yapılması aşamasında",
+            "Emniyet hedeflerinin belirlendiği aşamada"
+          ],
+          "dogru_secenek": "Tehlike tanımlama toplantılarında",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "Türkiye'nin başkenti hangi şehirdir?",
+          "secenekler": ["Ankara", "İstanbul", "İzmir", "Bursa"],
+          "dogru_secenek": "Ankara",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Türkiye'nin başkenti hangi şehirdir?",
+          "secenekler": ["Ankara", "İstanbul", "İzmir", "Bursa"],
+          "dogru_secenek": "Ankara",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Türkiye'nin başkenti hangi şehirdir?",
+          "secenekler": ["Ankara", "İstanbul", "İzmir", "Bursa"],
+          "dogru_secenek": "Ankara",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet verilerinin analizi için neden bir emniyet veri tabanı tesis edilmelidir?",
+          "secenekler": [
+            "Yasal zorunluluk",
+            "Veri değişimini kolaylaştırmak için",
+            "Finansal kazanç sağlamak için",
+            "İnsan kaynaklarını yönetmek için"
+          ],
+          "dogru_secenek": "Veri değişimini kolaylaştırmak için",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Hangi durumda Devletler, emniyet verilerini genel erişime açmalı veya kullanmalıdır?",
+          "secenekler": [
+            "Ulusal güvenliği tehlikeye attığında",
+            "İstisnai durumlar haricinde asla",
+            "Rekabet avantajı elde etmek için",
+            "Finansal kazanç sağlamak için"
+          ],
+          "dogru_secenek": "İstisnai durumlar haricinde asla",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet sorunlarının çözüme kavuşturulması için hangi süreç kullanılmalıdır?",
+          "secenekler": [
+            "Sadece ustabaşıların kararı",
+            "Gizli süreç",
+            "Deneme yanılma süreci",
+            "Dokümante edilen süreç"
+          ],
+          "dogru_secenek": "Dokümante edilen süreç",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "Hangi tür bir olay raporlama sistemi, cezalandırmaya dayanmamalı ve bilgi kaynaklarını korumalıdır?",
+          "secenekler": [
+            "Zorunlu olay raporlama sistemi",
+            "Sadece yöneticilerin erişim sağladığı olay raporlama sistemi",
+            "Sadece cezalandırma amaçlı olan olay raporlama sistemi",
+            "Gönüllülük esasına dayalı olay raporlama sistemi"
+          ],
+          "dogru_secenek": "Gönüllülük esasına dayalı olay raporlama sistemi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Hangi tür personel, emniyet gözetim işlevlerini ifa etmek için uygun olmalıdır?",
+          "secenekler": [
+            "Yetersiz personel",
+            "Nitelikli personel",
+            "Niteliksiz personel",
+            "Deneyimsiz personel"
+          ],
+          "dogru_secenek": "Nitelikli personel",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Hangi tür veri tabanı, emniyet verilerini saklamak için kullanılır?",
+          "secenekler": [
+            "Müşteri veri tabanı",
+            "Finansal veri tabanı",
+            "İnsan kaynakları veri tabanı",
+            "Emniyet veri tabanı"
+          ],
+          "dogru_secenek": "İnsan kaynakları veri tabanı",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Hangi tür bir olay raporlama sistemi, cezalandırmaya dayanmamalıdır?",
+          "secenekler": [
+            "Zorunlu olay raporlama sistemi",
+            "Gönüllülük esasına dayalı olay raporlama sistemi",
+            "Sadece yöneticilerin erişim sağladığı olay raporlama sistemi",
+            "Sadece cezalandırma amaçlı olan olay raporlama sistemi"
+          ],
+          "dogru_secenek": "Sadece yöneticilerin erişim sağladığı olay raporlama sistemi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Hangi tür bir tavsiye, emniyet bilgilerinin değişimini kolaylaştırmayı amaçlar?",
+          "secenekler": [
+            "Bilgi gizleme tavsiyesi",
+            "Bilgi saklama tavsiyesi",
+            "Bilgi paylaşımı tavsiyesi",
+            "Bilgi ifşa etme tavsiyesi"
+          ],
+          "dogru_secenek": "Bilgi paylaşımı tavsiyesi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet gözetim işlevlerini ifa eden personele ilişkin istihdam gerekliliklerini belirlemek için hangi metodoloji kullanılmalıdır?",
+          "secenekler": [
+            "Deneme yanılma",
+            "Dokümante edilen süreç",
+            "Gizli süreç",
+            "İşletme büyüklüğüne dayalı karar"
+          ],
+          "dogru_secenek": "Dokümante edilen süreç",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "Hangi tür bir tavsiye, havacılık sektörü arasında emniyet bilgilerinin serbest teatisini teşvik eder?",
+          "secenekler": [
+            "Bilgi saklama tavsiyesi",
+            "Bilgi ifşa etme tavsiyesi",
+            "Bilgi gizleme tavsiyesi",
+            "Bilgi paylaşımı tavsiyesi"
+          ],
+          "dogru_secenek": "Bilgi paylaşımı tavsiyesi",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ]
+    },
+    "zor_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "Uluslararası ticari hava taşımacılığı ile iştigal eden uçak veya helikopter işleticilerine hizmet sağlayan onaylı bakım kuruluşlarının SMS'leri hangi prosedüre göre kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "İşletmeci talebine",
+            "Uluslararası havacılık kurallarına",
+            "İlgili Devlet(ler) tarafından belirlenen prosedürlere",
+            "Uluslararası anlaşmalara"
+          ],
+          "dogru_secenek": "İlgili Devlet(ler) tarafından belirlenen prosedürlere",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Hangi durumda bir ATS sağlayıcısının yetkisi altındaki hizmetler ATS sağlayıcısının SMS'si kapsamına girer?",
+          "secenekler": [
+            "Hizmetlerin tamamı bir ATS sağlayıcısı tarafından sağlandığında",
+            "Hizmetler bir kısmı bir ATS sağlayıcısı tarafından sağlandığında",
+            "Hizmetler ATS sağlayıcısı tarafından değil başka bir kuruluş tarafından sağlandığında",
+            "ATS sağlayıcısı hizmetlerini durdurduğunda"
+          ],
+          "dogru_secenek": "Hizmetlerin tamamı bir ATS sağlayıcısı tarafından sağlandığında",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Ek 14'e uygun olarak sertifikalandırılmış bir havaalanı işleticisinin SMS'si kabul edilebilir hale getirilirken hangi durum göz önünde bulundurulmalıdır?",
+          "secenekler": [
+            "Havaalanının sivil hava trafik kontrolü",
+            "Havaalanının konumu",
+            "Havaalanının sertifikasyonu",
+            "Havaalanı terminalinin boyutu"
+          ],
+          "dogru_secenek": "Havaalanının sertifikasyonu",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Uluslararası genel havacılık işleticisinin SMS'si operasyonun neye göre şekillendirilmelidir?",
+          "secenekler": [
+            "Operasyonun süresine göre",
+            "Operasyonun konumuna göre",
+            "Operasyonun büyüklüğü ve karmaşıklığına göre",
+            "Operasyonun maliyetine göre"
+          ],
+          "dogru_secenek": "Operasyonun büyüklüğü ve karmaşıklığına göre",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Bir hava aracının tip tasarımından sorumlu olan bir kuruluşun SMS'si kabul edilebilir hale getirilirken hangi faktörler dikkate alınır?",
+          "secenekler": [
+            "Tasarımın yeniliği ve pazardaki talep",
+            "Tasarımın karmaşıklığı ve hava aracının kullanım alanı",
+            "Tasarımın maliyeti ve üretim süresi",
+            "Tasarımın estetik özellikleri ve iç mekan düzeni"
+          ],
+          "dogru_secenek": "Tasarımın karmaşıklığı ve hava aracının kullanım alanı",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Bir ATS sağlayıcısının SMS'si ATS'nin sağladığı hangi hizmetleri kapsar?",
+          "secenekler": [
+            "Yolcu hizmetleri",
+            "Emniyet ve seyrüsefer hizmetleri",
+            "Bagaj hizmetleri",
+            "Yiyecek ve içecek hizmetleri"
+          ],
+          "dogru_secenek": "Emniyet ve seyrüsefer hizmetleri",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Hava aracının imalatından sorumlu olan bir kuruluşun SMS'si nerede kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "İşleticinin Devleti nezdinde",
+            "Tasarım Devleti nezdinde",
+            "İmalat Devleti nezdinde",
+            "Havaalanının sertifikasyonundan sorumlu olan Devlet nezdinde"
+          ],
+          "dogru_secenek": "İmalat Devleti nezdinde",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Bir hizmet sağlayıcının SMS'si hangi unsurlara uygun olarak tesis edilmelidir?",
+          "secenekler": [
+            "Ulusal sivil havacılık otoritesinin talimatlarına",
+            "Emniyet Yönetimi El Kitabı'ndaki çerçeve unsurlara",
+            "Havacılık endüstrisi standartlarına",
+            "Uluslararası anlaşmalara"
+          ],
+          "dogru_secenek": "Emniyet Yönetimi El Kitabı'ndaki çerçeve unsurlara",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Bir ATS sağlayıcısının SMS'si ATS'nin sağladığı hangi hizmetleri kapsar?",
+          "secenekler": [
+            "Yiyecek ve içecek hizmetleri",
+            "Emniyet ve seyrüsefer hizmetleri",
+            "Bagaj hizmetleri",
+            "Yolcu hizmetleri"
+          ],
+          "dogru_secenek": "Emniyet ve seyrüsefer hizmetleri",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Hangi durumda bir havaalanı işleticisinin SMS'si kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "Havaalanının boyutu",
+            "Havaalanının coğrafi konumu",
+            "Havaalanının işletme maliyeti",
+            "Havaalanının sertifikasyonu"
+          ],
+          "dogru_secenek": "Havaalanının sertifikasyonu",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "ICAO'nun Annex19'u oluşturma planı hangi yıl devreye alınmıştır?",
+          "secenekler": ["2005", "2010", "2013", "2018"],
+          "dogru_secenek": "2013",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet Yönetim Sistemi ne amaçla kullanılır?",
+          "secenekler": [
+            "Havacılık kazalarını araştırmak için",
+            "Tehlikeleri ve riskleri belirlemek ve yönetmek için",
+            "Ticari havayolu şirketlerini denetlemek için",
+            "Sivil Havacılık Yönetim Sistemi için"
+          ],
+          "dogru_secenek": "Tehlikeleri ve riskleri belirlemek ve yönetmek için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Havaalanlarını inşa etmek için SHY-SMS, hangi kavramın kısaltmasıdır?",
+          "secenekler": [
+            "Sivil Havacılık Yönetim Sistemi",
+            "Sivil Havacılık Standardizasyon Modeli",
+            "Sivil Havacılıkta Emniyet Yönetim Sistemi",
+            "Sivil Havacılık Yönetmelik Sistemi"
+          ],
+          "dogru_secenek": "Sivil Havacılıkta Emniyet Yönetim Sistemi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "ICAO'nun toplam kaç üye ülkesi bulunmaktadır?",
+          "secenekler": ["150", "191", "220", "250"],
+          "dogru_secenek": "191",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "SHGM tarafından yayınlanan yönetmelik değişikliği ile hangi tarihte Tip Tasarım/Üretim Kuruluşlarında SMS Uygulanması zorunlu hale getirilmiştir?",
+          "secenekler": ["2010", "2012", "2015", "2017"],
+          "dogru_secenek": "2015",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet Yönetim Sistemi'nde tanımlanan eylemlerin etkililiğini değerlendirmek için kullanılan bir yöntem nedir?",
+          "secenekler": [
+            "SWOT analizi",
+            "Emniyet matrisi",
+            "Performans göstergeleri",
+            "İşgücü planlaması"
+          ],
+          "dogru_secenek": "Performans göstergeleri",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet Politikası'nın belirlenmesinde en önemli faktörler nelerdir?",
+          "secenekler": [
+            "Rekabet analizleri",
+            "Pazar payı hedefleri",
+            "Yasal düzenlemeler ve kurumsal değerler",
+            "İşletme genel giderleri"
+          ],
+          "dogru_secenek": "Yasal düzenlemeler ve kurumsal değerler",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet Yönetim Sistemi'nde 'tehlike' nasıl tanımlanır?",
+          "secenekler": [
+            "Olası finansal kayıplar",
+            "İnsanların sağlığı ve güvenliğini tehdit eden herhangi bir durum",
+            "Pazar trendlerinin değişmesi",
+            "Ürünlerin hızlı bir şekilde tedarik edilmemesi"
+          ],
+          "dogru_secenek": "İnsanların sağlığı ve güvenliğini tehdit eden herhangi bir durum",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet Politikası'nın şirket içindeki paylaşımı, hangi yönetişim ilkesini yansıtır?",
+          "secenekler": ["Şeffaflık", "Gizlilik", "Rekabetçilik", "Karlılık"],
+          "dogru_secenek": "Şeffaflık",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet Yönetim Sistemi'nin etkinliğini artırmak için hangi stratejiler kullanılabilir?",
+          "secenekler": [
+            "Personel eğitimlerini azaltmak",
+            "Sürekli iyileştirme ve geribildirim döngüsü uygulamak",
+            "Denetimleri ihmal etmek",
+            "Riskleri göz ardı etmek"
+          ],
+          "dogru_secenek": "Sürekli iyileştirme ve geribildirim döngüsü uygulamak",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "SMS'nin amacı nedir?",
+          "secenekler": [
+            "Havacılık ürünlerinin ve hizmetlerinin karmaşıklığını belirlemek için",
+            "Emniyet risklerini tanımlamak ve ilişkili riskleri değerlendirmek için",
+            "Hizmet sağlayıcıların büyüklüğünü ölçmek için",
+            "Uluslararası ticari hava taşımacılığını düzenlemek için"
+          ],
+          "dogru_secenek": "Emniyet risklerini tanımlamak ve ilişkili riskleri değerlendirmek için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Hangisi doğrudur?",
+          "secenekler": [
+            "ATS sağlayıcısının SMS'si, havacılık ürünlerinin karmaşıklığı ile orantılı olmalıdır.",
+            "Bakım faaliyetleri, onaylı bir bakım kuruluşu tarafından gerçekleştirildiğinde, işleticinin SMS'si kapsamına dahil edilir.",
+            "Hava aracı imalatından sorumlu kuruluşun SMS'si, Tasarım Devleti nezdinde kabul edilir.",
+            "Uluslararası genel havacılık işleticisinin SMS'si, operasyonun karmaşıklığına bağlı olarak geliştirilir."
+          ],
+          "dogru_secenek": "Bakım faaliyetleri, onaylı bir bakım kuruluşu tarafından gerçekleştirildiğinde, işleticinin SMS'si kapsamına dahil edilir.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Hangi durumda bir havaalanı işleticisinin SMS'si kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "Havaalanının sertifikasyonundan sorumlu olan havacılık şirketi tarafından",
+            "Uluslararası ticari hava taşımacılığı yapmak üzere yetkilendirilen uçaklar için",
+            "İşleticiye hizmet sağlayan onaylı bakım kuruluşları tarafından",
+            "Devlet tarafından sertifikalandırılmış bir havaalanı işletiyorsa"
+          ],
+          "dogru_secenek": "Devlet tarafından sertifikalandırılmış bir havaalanı işletiyorsa",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Hangisi SMS'nin temel unsurlarından biri değildir?",
+          "secenekler": [
+            "Gerçek ve olası emniyet tehlikelerinin tanımlanması",
+            "İyileştirici tedbirlerin geliştirilmesi ve uygulanması",
+            "Havacılık ürünlerinin büyüklüğünün belirlenmesi",
+            "Emniyet yönetimi faaliyetlerinin sürekli olarak takip edilmesi"
+          ],
+          "dogru_secenek": "Havacılık ürünlerinin büyüklüğünün belirlenmesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Hangisi doğru bir ifadedir?",
+          "secenekler": [
+            "ATS sağlayıcısının SMS'si, AIS, CNS, MET ve/veya SAR hizmetlerini sağladığında kapsam dışında kalır.",
+            "Uluslararası ticari hava taşımacılığı işletmelerinin SMS'leri, işletme büyüklüğüne göre belirlenir.",
+            "Ek 8'e uygun olarak bir kuruluşun SMS'si, İmalat Devleti tarafından kabul edilir.",
+            "Genel havacılığa yönelik bir SMS'nin kılavuzu, Emniyet Yönetimi El Kitabı'nda yer alır."
+          ],
+          "dogru_secenek": "Genel havacılığa yönelik bir SMS'nin kılavuzu, Emniyet Yönetimi El Kitabı'nda yer alır.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Hangisi SMS'nin gerekliliklerinden biri değildir?",
+          "secenekler": [
+            "Ek 1'e uygun olarak hizmetlerin sağlanması sırasında emniyet risklerine maruz kalan eğitim kuruluşlarının kabul edilmesi",
+            "Bakım faaliyetlerinin onaylı bir bakım kuruluşu tarafından gerçekleştirilmesi",
+            "Uluslararası ticari hava taşımacılığı işletmelerinin SMS'lerinin kabul edilebilir hale getirilmesi",
+            "Hava aracının tip tasarımından sorumlu olan bir kuruluşun SMS'sinin kabul edilebilir hale getirilmesi"
+          ],
+          "dogru_secenek": "Bakım faaliyetlerinin onaylı bir bakım kuruluşu tarafından gerçekleştirilmesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Hangisi doğrudur?",
+          "secenekler": [
+            "ATS sağlayıcısının SMS'si, havaalanı işleticisinin SMS'si kapsamına girer.",
+            "Bakım faaliyetleri, Ek 6, Kısım I, 8.7'ye uygun olarak gerçekleştirildiğinde işleticinin SMS'sine dahil edilir.",
+            "Uluslararası ticari hava taşımacılığı işletmelerinin SMS'leri, Ek 14'e uygun olarak kabul edilir.",
+            "Hava aracının imalatından sorumlu kuruluşun SMS'si, Tasarım Devleti tarafından kabul edilir."
+          ],
+          "dogru_secenek": "ATS sağlayıcısının SMS'si, havaalanı işleticisinin SMS'si kapsamına girer.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Hangi durumda bir ATS sağlayıcısının SMS'si kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "AIS, CNS, MET ve/veya SAR hizmetlerinin tamamını sağladığında",
+            "Doğrudan operasyonel etkilere sahip olmayan hizmetlerde",
+            "ATS sağlayıcısı tarafından yetkilendirilen bir kuruluş tarafından gerçekleştirildiğinde",
+            "ATS sağlayıcısının yetkisi altında olmadığında"
+          ],
+          "dogru_secenek": "Doğrudan operasyonel etkilere sahip olmayan hizmetlerde",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Hangisi doğru bir ifadedir?",
+          "secenekler": [
+            "Hava aracının tip tasarımından sorumlu olan bir kuruluşun SMS'si, İmalat Devleti tarafından kabul edilir.",
+            "Uluslararası ticari hava taşımacılığı işletmelerinin SMS'leri, işletme büyüklüğüne göre belirlenir.",
+            "Ek 6, Kısım II, Bölüm 3'e uygun olarak geniş gövdeli veya turbojet uçakların operasyonlarını gerçekleştiren bir uluslararası genel havacılık işleticisinin SMS'si, operasyonun karmaşıklığına bağlı olarak geliştirilir.",
+            "ATS sağlayıcısının SMS'si, havacılık ürünlerinin karmaşıklığı ile orantılı olarak oluşturulur."
+          ],
+          "dogru_secenek": "Ek 6, Kısım II, Bölüm 3'e uygun olarak geniş gövdeli veya turbojet uçakların operasyonlarını gerçekleştiren bir uluslararası genel havacılık işleticisinin SMS'si, operasyonun karmaşıklığına bağlı olarak geliştirilir.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Hangisi SMS'nin temel unsurlarından biri değildir?",
+          "secenekler": [
+            "Emniyet risklerinin tanımlanması",
+            "İyileştirici tedbirlerin geliştirilmesi ve uygulanması",
+            "Havacılık ürünlerinin büyüklüğünün belirlenmesi",
+            "Emniyet yönetimi faaliyetlerinin sürekli olarak izlenmesi ve değerlendirilmesi"
+          ],
+          "dogru_secenek": "Havacılık ürünlerinin büyüklüğünün belirlenmesi",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet politikasının uygulanmasına ilişkin sorumluluğu kim belirler ve nasıl iletilir?",
+          "secenekler": [
+            "Sadece üst yönetim tarafından belirlenir ve yazılı olarak iletilir",
+            "Sadece emniyet departmanı tarafından belirlenir ve sözlü olarak iletilir",
+            "Yönetimin tamamı tarafından belirlenir ve yazılı olarak iletilir",
+            "Sadece pilotlar tarafından belirlenir ve sözlü olarak iletilir",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Sadece üst yönetim tarafından belirlenir ve yazılı olarak iletilir",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet risklerinin tolere edilebilirliği ile ilgili kararları kim alır ve neye dayanarak alır?",
+          "secenekler": [
+            "Sadece havacılık otoriteleri alır ve deneyimlerine dayanarak alır",
+            "Yönetim kademesi alır ve operasyonel verilere dayanarak alır",
+            "Sadece hukuk departmanı alır ve yasalara dayanarak alır",
+            "Sadece emniyet personeli alır ve eğitimlerine dayanarak alır",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Yönetim kademesi alır ve operasyonel verilere dayanarak alır",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet ile ilgili hesap verme sorumluluğunun etkili bir şekilde yerine getirilmesi için hangi faktörler önemlidir?",
+          "secenekler": [
+            "Sadece üst yönetimin denetimi",
+            "Her seviyede net bir sorumluluk dağılımı ve iletişim",
+            "Sadece emniyet personelinin deneyimi",
+            "Yalnızca yazılı prosedürlerin olması",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Her seviyede net bir sorumluluk dağılımı ve iletişim",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Acil durum eylem planının koordinasyonu sürecinde neler göz önünde bulundurulmalıdır?",
+          "secenekler": [
+            "Yalnızca hizmet sağlayıcıların planları",
+            "Sadece uçuş ekibinin bilgisi",
+            "Tüm etkileşime girebilecek kuruluşların planları",
+            "Sadece hava trafik kontrolörlerinin planları",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Tüm etkileşime girebilecek kuruluşların planları",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet performansının izlenmesi ve değişiklik yönetimi süreçlerinde hangi faktörler önemlidir?",
+          "secenekler": [
+            "Yalnızca yıllık raporlar",
+            "Sürekli geri bildirim ve sürekli iyileştirme",
+            "Yalnızca resmi denetimler",
+            "Teknolojik altyapının güncellenmesi",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Sürekli geri bildirim ve sürekli iyileştirme",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet risklerinin azaltılması için alınan önlemler hangi aşamada değerlendirilir?",
+          "secenekler": [
+            "Yalnızca proaktif aşamada",
+            "Yalnızca reaktif aşamada",
+            "Her aşamada",
+            "Sadece prediktif aşamada",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Her aşamada",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet performansı takibi ve ölçümü için kullanılan veri kaynakları nelerdir?",
+          "secenekler": [
+            "Yalnızca pilot raporları",
+            "Yalnızca yolcu geribildirimleri",
+            "Emniyet veri tabanları, kaza raporları, insidanslar",
+            "Yalnızca yöneticilerin değerlendirmeleri",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet veri tabanları, kaza raporları, insidanslar",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet iletişimi neden önemlidir?",
+          "secenekler": [
+            "Çalışanların moralini artırmak için",
+            "Havayolu şirketinin marka değerini artırmak için",
+            "Güvenlik kültürünü teşvik etmek ve çalışanları bilgilendirmek için",
+            "Maliyetleri azaltmak için",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Güvenlik kültürünü teşvik etmek ve çalışanları bilgilendirmek için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Hangisi emniyet iletişimi için bir örnek olabilir?",
+          "secenekler": [
+            "Pilotlar arasında sosyal etkinlikler düzenlemek",
+            "Acil durumlarda nasıl kaçılacağına dair talimatları içeren broşürler dağıtmak",
+            "Yöneticilerin gizli toplantılar düzenlemesi",
+            "Yolculara ücretsiz yiyecek ve içecek sunmak",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Acil durumlarda nasıl kaçılacağına dair talimatları içeren broşürler dağıtmak",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet politikası ve amaçları nasıl oluşturulur ve kim tarafından onaylanır?",
+          "secenekler": [
+            "CEO tarafından, yönetim kurulu onayı ile",
+            "Sadece havayolu pilotları tarafından",
+            "Sadece havaalanı güvenlik personeli tarafından",
+            "Sadece emekli pilotlar tarafından",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "CEO tarafından, yönetim kurulu onayı ile",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ]
+    }
+  },
+  "B_departmani": {
+    "kolay_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet politikası ve amaçlarının belirlenmesi hangi belgeye dayanır?",
+          "secenekler": [
+            "Emniyet Yönetim Sistemi el kitabı",
+            "Havacılık düzenlemeleri",
+            "CEO'nun talimatları",
+            "Personel anket sonuçları",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Havacılık düzenlemeleri",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet risklerinin değerlendirilmesi ve azaltılması sürecinde kullanılan teknikler nelerdir?",
+          "secenekler": [
+            "Yalnızca proaktif veriler",
+            "Sadece reaktif veriler",
+            "Reaktif, proaktif ve prediktif verilerin kombinasyonu",
+            "Sadece prediktif veriler",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Reaktif, proaktif ve prediktif verilerin kombinasyonu",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Değişiklik yönetimi süreci hangi tür değişikliklere odaklanır?",
+          "secenekler": [
+            "Yalnızca personel değişiklikleri",
+            "Yalnızca teknolojik değişiklikler",
+            "Emniyet risklerini etkileyebilecek her türlü değişiklik",
+            "Sadece hukuki değişiklikler",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet risklerini etkileyebilecek her türlü değişiklik",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet performansı neye dayalı olarak doğrulanır?",
+          "secenekler": [
+            "Yöneticilerin öznel değerlendirmelerine",
+            "Emniyet Yönetim Sistemi göstergelerine ve hedeflerine",
+            "Sadece havaalanı güvenlik raporlarına",
+            "Rakip havayolu şirketlerinin performansına",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet Yönetim Sistemi göstergelerine ve hedeflerine",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Aşağıdakilerden hangisi havacılık kazalarında en yaygın nedenlerden biri değildir?",
+          "secenekler": [
+            "İnsan faktörü",
+            "Hava koşulları",
+            "Teknik arızalar",
+            "Yetersiz eğitim",
+            "Uçuş rotası"
+          ],
+          "dogru_secenek": "Uçuş rotası",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Bir havacılık kazasının temel nedenlerinden biri olan 'insan faktörü' ile ilgili olarak aşağıdakilerden hangisi doğrudur?",
+          "secenekler": [
+            "Personelin eğitim düzeyi",
+            "Pilotun uçuş tecrübesi",
+            "Hava trafik yoğunluğu",
+            "Uçağın bakım geçmişi",
+            "Havaalanı pistinin uzunluğu"
+          ],
+          "dogru_secenek": "Personelin eğitim düzeyi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "Havacılık kazalarını en aza indirmek için Emniyet Yönetim Sistemi (Safety Management System - SMS) uygulamaları neyi hedefler?",
+          "secenekler": [
+            "Kazaların tamamen önlenmesini",
+            "Riskleri tanımlamayı, değerlendirmeyi ve kontrol etmeyi",
+            "Pilot eğitimini artırmayı",
+            "Uçuş rotalarını değiştirmeyi",
+            "Hava trafik kontrol sistemlerini güçlendirmeyi"
+          ],
+          "dogru_secenek": "Riskleri tanımlamayı, değerlendirmeyi ve kontrol etmeyi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet Yönetim Sistemi kapsamında, hangi faaliyet havacılık işletmesinin en önemli hedeflerinden biridir?",
+          "secenekler": [
+            "Emniyet politikası oluşturmak",
+            "Personelin maaşlarını artırmak",
+            "Emniyet performansını gözlemlemek",
+            "Havacılık ekipmanlarını satmak",
+            "Uçuş rotalarını sık sık değiştirmek"
+          ],
+          "dogru_secenek": "Emniyet performansını gözlemlemek",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Bir havacılık işletmesinde Emniyet Yönetim Sistemi uygulamalarının etkinliğini artırmak için hangi adımlar atılmalıdır?",
+          "secenekler": [
+            "Düzeltici faaliyetlerin izlenmemesi",
+            "Emniyet politikasının gözden geçirilmemesi",
+            "Çalışanların emniyet raporlamasının teşvik edilmemesi",
+            "Emniyet performansının sürekli olarak izlenmesi ve politika geliştirilmesi",
+            "Personelin eğitim düzeyinin düşürülmesi"
+          ],
+          "dogru_secenek": "Emniyet performansının sürekli olarak izlenmesi ve politika geliştirilmesi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Sorumlu Müdürün havacılık işletmesindeki en temel görevi nedir?",
+          "secenekler": [
+            "Personelin tatil günlerini planlamak",
+            "Emniyet politikasının oluşturulmasını sağlamak",
+            "Havacılık ekipmanlarının satışını artırmak",
+            "Uçuş rotalarını belirlemek",
+            "Çay ve kahve ikramı düzenlemek"
+          ],
+          "dogru_secenek": "Emniyet politikasının oluşturulmasını sağlamak",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet yönetimi sistemi (SMS), havacılıkta hangi amaçla kullanılan bir sistemdir?",
+          "secenekler": [
+            "Emniyet performansını düşürmek için.",
+            "Riskleri kabul edilebilir bir seviyeye düşürmek için.",
+            "Hava aracının hızını artırmak için.",
+            "Uçuş ekiplerinin motivasyonunu artırmak için.",
+            "Havayolu bilet fiyatlarını belirlemek için."
+          ],
+          "dogru_secenek": "Riskleri kabul edilebilir bir seviyeye düşürmek için.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "Hangisi 'kaza' olarak tanımlanan bir durumdur?",
+          "secenekler": [
+            "Bir hava aracının rutin bakımı sırasında teknisyenin hafif şekilde yaralanması.",
+            "Bir hava aracının uçuş sırasında motor arızası nedeniyle acil iniş yapması.",
+            "Bir yolcunun uçuş sırasında yaşadığı kalp krizi sonucu hastaneye kaldırılması.",
+            "Bir hava aracının apronda park halindeyken bir başka hava aracı tarafından çarpması.",
+            "Bir hava aracının kalkış esnasında ani bir rüzgar şiddeti nedeniyle yön değiştirmesi."
+          ],
+          "dogru_secenek": "Bir yolcunun uçuş sırasında yaşadığı kalp krizi sonucu hastaneye kaldırılması.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Hangisi bir 'hava aracı' olarak tanımlanabilir?",
+          "secenekler": ["Araba.", "Otobüs.", "Tren.", "Uçak.", "Bisiklet."],
+          "dogru_secenek": "Uçak.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "\"Sektörel uygulama esasları\" hangi amaca hizmet eder?",
+          "secenekler": [
+            "Havacılık emniyetini ihlal etmek.",
+            "Havacılık endüstrisinde belirli sektörler için rehberlik sağlamak.",
+            "Pilotların eğitim seviyelerini düşürmek.",
+            "Havayolu şirketlerinin karlarını artırmak.",
+            "Hava trafik kontrolörlerinin iş yükünü azaltmak."
+          ],
+          "dogru_secenek": "Havacılık endüstrisinde belirli sektörler için rehberlik sağlamak.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet performansı göstergesi neyi ölçer?",
+          "secenekler": [
+            "Hava aracı yakıt tüketimini.",
+            "Yolcu memnuniyetini.",
+            "Emniyet performansını.",
+            "Havaalanı terminal kapasitesini.",
+            "Uçuş ekibinin eğitim seviyesini."
+          ],
+          "dogru_secenek": "Emniyet performansını.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Havacılıkta \"SARP'ler\" terimi neyi ifade eder?",
+          "secenekler": [
+            "Standartlar ve Önerilen Uygulamalar",
+            "Havaalanı İşletme Prosedürleri",
+            "Sivil Havacılık Hedefleri",
+            "Havacılık Personel Belgeleri",
+            "Emniyet Tehditleri"
+          ],
+          "dogru_secenek": "Standartlar ve Önerilen Uygulamalar",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet performansının ölçümü hangi durumları kapsar?",
+          "secenekler": [
+            "Apronda hız limiti aşımı ve yabancı madde hasarları",
+            "Yolcu memnuniyet anketleri",
+            "Havaalanı terminalindeki yoğunluk",
+            "Havacılık reklam bütçeleri",
+            "Kargo taşımacılığı maliyetleri"
+          ],
+          "dogru_secenek": "Apronda hız limiti aşımı ve yabancı madde hasarları",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet yönetim sistemi (SMS) hangi amaçla kullanılır?",
+          "secenekler": [
+            "Tehlikelerin tanımlanması ve emniyet risklerinin kontrol altına alınması",
+            "Havayolu bilet fiyatlarının belirlenmesi",
+            "Uçuş ekibinin motivasyonunun artırılması",
+            "Havaalanı güvenlik personelinin eğitim seviyesinin yükseltilmesi",
+            "Havacılık reklam stratejilerinin geliştirilmesi"
+          ],
+          "dogru_secenek": "Tehlikelerin tanımlanması ve emniyet risklerinin kontrol altına alınması",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "SMS'nin havacılık kuruluşlarına sağladığı faydalar nelerdir?",
+          "secenekler": [
+            "Emniyet performansının objektif olarak değerlendirilmesi",
+            "Reklam gelirlerinin artması",
+            "Havaalanı terminal kapasitesinin genişletilmesi",
+            "Yolcu memnuniyetinin artırılması",
+            "Kâr marjının yükseltilmesi"
+          ],
+          "dogru_secenek": "Emniyet performansının objektif olarak değerlendirilmesi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "SMS'nin temel özelliklerinden biri nedir?",
+          "secenekler": ["Sistematik", "Rastgele", "Belirsiz", "Karmaşık"],
+          "dogru_secenek": "Sistematik",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "SMS'nin amacı nedir?",
+          "secenekler": [
+            "Tehlikeleri kontrol altına almak",
+            "Tehlikeleri artırmak",
+            "Bilgiyi saklamak",
+            "Sorumlulukları gizlemek"
+          ],
+          "dogru_secenek": "Tehlikeleri kontrol altına almak",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "SMS'nin açık olması ne anlama gelir?",
+          "secenekler": [
+            "Belgelenmiş olması",
+            "Bilgiyi saklaması",
+            "Sorumlulukları paylaşması",
+            "Tehlikeleri gizlemesi"
+          ],
+          "dogru_secenek": "Belgelenmiş olması",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "GAP analizi neyi belirlemeye yardımcı olur?",
+          "secenekler": [
+            "Tehlikeleri artırmak",
+            "Emniyet açıklarını tanımlamak",
+            "Bilgiyi saklamak",
+            "Riskleri gizlemek"
+          ],
+          "dogru_secenek": "Emniyet açıklarını tanımlamak",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Kalite güvencesi, havacılık kuruluşlarının hangi yönlerini izleyip değerlendirerek ihtiyaç duyulan gerekliliklere sahip olmasını sağlar?",
+          "secenekler": [
+            "İnsani ve örgütsel",
+            "Teknolojik ve finansal",
+            "Yerel ve uluslararası",
+            "Operasyonel ve lojistik",
+            "Hukuki ve etik"
+          ],
+          "dogru_secenek": "İnsani ve örgütsel",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet yönetim sistemi (SMS), havacılık kuruluşlarının hangi tür sonuçları hedefler?",
+          "secenekler": [
+            "Emniyet memnuniyeti",
+            "Mali kâr",
+            "Pazar payı",
+            "Rekabet avantajı",
+            "Çevresel uyum"
+          ],
+          "dogru_secenek": "Emniyet memnuniyeti",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet politikasının amacı nedir?",
+          "secenekler": [
+            "Emniyetin sağlanması",
+            "Kar marjının artırılması",
+            "Rekabet avantajı elde etmek",
+            "Müşteri memnuniyetini artırmak",
+            "Ürün çeşitliliğini artırmak"
+          ],
+          "dogru_secenek": "Emniyetin sağlanması",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet Yönetim Sistemi El Kitabı hangi bilgileri içerir?",
+          "secenekler": [
+            "İnsan kaynakları yönetimi",
+            "Emniyet performansı ölçümü",
+            "Satış stratejileri",
+            "Yatırım planları",
+            "Pazar araştırması"
+          ],
+          "dogru_secenek": "Emniyet performansı ölçümü",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet hizmetleri birimi (EHhangi faaliyetleri yerine getirir?",
+          "secenekler": [
+            "Ürün tasarımı",
+            "Tedarikçi ilişkileri yönetimi",
+            "Tehlike tanımlama sistemi yönetimi",
+            "Maliyet analizi",
+            "Pazarlama stratejilerinin belirlenmesi"
+          ],
+          "dogru_secenek": "Tehlike tanımlama sistemi yönetimi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet politikasının altında yer alan taahhütlerden biri nedir?",
+          "secenekler": [
+            "Çalışan motivasyonunu artırmak",
+            "Uluslararası standartlara uyum sağlamak",
+            "Satış hacmini artırmak",
+            "Ürün kalitesini düşürmemek",
+            "Sosyal medya etkileşimini artırmak"
+          ],
+          "dogru_secenek": "Uluslararası standartlara uyum sağlamak",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet Yönetim Sistemi'nin iki temel fonksiyonu nedir?",
+          "secenekler": [
+            "Emniyet ve kalite kontrolü",
+            "Emniyet riski yönetimi ve emniyetin güvence altına alınması",
+            "İnsan kaynakları yönetimi ve mali planlama",
+            "Ürün geliştirme ve pazarlama stratejileri",
+            "Finansal raporlama ve muhasebe yönetimi"
+          ],
+          "dogru_secenek": "Emniyet riski yönetimi ve emniyetin güvence altına alınması",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet riski yönetimi sürecinde hangi adımlar izlenir?",
+          "secenekler": [
+            "Tanımlama, analiz, kontrol",
+            "Değerlendirme, izleme, değerlendirme",
+            "Planlama, uygulama, denetleme",
+            "Analiz, çözümleme, raporlama",
+            "Kontrol, denetleme, düzenleme"
+          ],
+          "dogru_secenek": "Tanımlama, analiz, kontrol",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "Tehlike günlüğü hangi bilgileri içermelidir?",
+          "secenekler": [
+            "Müşteri memnuniyet anketleri",
+            "Finansal raporlar",
+            "Tehlike tanımları, emniyet riskleri, kontrol yöntemleri",
+            "Çalışanın kişisel notları",
+            "Reklam kampanyaları"
+          ],
+          "dogru_secenek": "Tehlike tanımları, emniyet riskleri, kontrol yöntemleri",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "ALARP seviyesine ulaşıldığında ne olur?",
+          "secenekler": [
+            "Emniyet riski artar",
+            "Emniyet riski kabul edilebilir bir seviyeye iner",
+            "Emniyet riski ortadan kalkar",
+            "Emniyet riski kontrol edilir",
+            "Emniyet riski bilinçli olarak artırılır"
+          ],
+          "dogru_secenek": "Emniyet riski kabul edilebilir bir seviyeye iner",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet güvencesi fonksiyonu ne amaçla kullanılır?",
+          "secenekler": [
+            "Emniyet risklerini artırmak için",
+            "Operasyonel faaliyetlerin sürekli olarak iyileştirilmesi için",
+            "Personelin cezalandırılması için",
+            "Değişiklik yönetimi için",
+            "Acil müdahale planlarının oluşturulması için"
+          ],
+          "dogru_secenek": "Operasyonel faaliyetlerin sürekli olarak iyileştirilmesi için",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet riski yönetimi sürecinde, tehlikelerin tanımlanması hangi aşamada gerçekleştirilir?",
+          "secenekler": [
+            "Emniyet güvencesi sürecinde",
+            "Acil müdahale planlamasında",
+            "Değerlendirme toplantılarında",
+            "Sistem tanımının yapılması aşamasında",
+            "Tehlike raporlama politikası oluşturulması aşamasında"
+          ],
+          "dogru_secenek": "Değerlendirme toplantılarında",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "SMS uygulamasının aşamalandırılması neden tercih edilir?",
+          "secenekler": [
+            "Kaynakların daha etkin kullanımı için",
+            "Maliyetleri artırmak için",
+            "İş yükünü azaltmak için",
+            "Süreci hızlandırmak için",
+            "Standartları ihlal etmek için"
+          ],
+          "dogru_secenek": "İş yükünü azaltmak için",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "SMS'nin aşamalı bir yaklaşımla uygulanması neden önemlidir?",
+          "secenekler": [
+            "Maliyetleri artırır",
+            "Yönetim zorluğunu artırır",
+            "Kaynakların etkin kullanımını sağlar",
+            "Süreci uzatır",
+            "Standartlara uymaz"
+          ],
+          "dogru_secenek": "Kaynakların etkin kullanımını sağlar",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Kolay Seviye Test Emniyet verilerinin toplanması için her devlet ne yapmalıdır?",
+          "secenekler": [
+            "Zorunlu olay raporlama sistemi tesis etmelidir.",
+            "Gönüllü olay raporlama sistemi tesis etmelidir.",
+            "Her iki seçenek de doğrudur.",
+            "Hiçbiri."
+          ],
+          "dogru_secenek": "Zorunlu olay raporlama sistemi tesis etmelidir.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet veri tabanı ne işe yarar?",
+          "secenekler": [
+            "Emniyet açıklarını gizler.",
+            "Emniyet bilgilerini analiz eder ve geliştirme tedbirleri belirler.",
+            "Veri değişimini zorlaştırır.",
+            "Hiçbiri."
+          ],
+          "dogru_secenek": "Emniyet bilgilerini analiz eder ve geliştirme tedbirleri belirler.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Hangi durumda emniyet verileri erişime açılmamalı veya kullanılmamalıdır?",
+          "secenekler": [
+            "Emniyet ile ilgili amaçlar dışında.",
+            "Kaza soruşturma otoriteleri için.",
+            "Gönüllü raporlama sistemleri için.",
+            "Hiçbir durumda."
+          ],
+          "dogru_secenek": "Emniyet ile ilgili amaçlar dışında.",
+          "puan": 10,
+          "gold": 5
+        }
+      ]
+    },
+    "orta_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "Uçak tasarımında aerodinamik hangi konseptin bir parçasıdır?",
+          "secenekler": [
+            "Kuyruk düzlemi",
+            "Kanat formu",
+            "Motor gücü",
+            "Kokpit boyutu",
+            "Yolcu koltuk düzeni"
+          ],
+          "dogru_secenek": "Kanat formu",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Uçakların düzenli bakımı için hangisi önemlidir?",
+          "secenekler": [
+            "Uçuş personelinin eğitimi",
+            "Yeterli yakıt alımı",
+            "Teknik personelin yeterliliği",
+            "İyi hava koşulları",
+            "Güçlü motorlar"
+          ],
+          "dogru_secenek": "Teknik personelin yeterliliği",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Uçaklarda hangisi yolcu güvenliği için gereklidir?",
+          "secenekler": [
+            "Tekerleklerin rengi",
+            "İniş takımı sağlamlığı",
+            "Tavanın boyası",
+            "Kokpitteki aydınlatma",
+            "Hostes kıyafetleri"
+          ],
+          "dogru_secenek": "İniş takımı sağlamlığı",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "Uçak üretiminde çevre dostu olmak için hangisi yapılmalıdır?",
+          "secenekler": [
+            "Daha fazla plastik kullanımı",
+            "Düşük yakıt verimliliği",
+            "Geri dönüşümlü malzemelerin kullanımı",
+            "Fazla gürültü",
+            "Atık suyun kontrolsüz salınımı"
+          ],
+          "dogru_secenek": "Geri dönüşümlü malzemelerin kullanımı",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Uçak üretiminde kullanılan yazılım sistemleri hangisini sağlar?",
+          "secenekler": [
+            "Uçuş eğitimi",
+            "Müşteri ilişkileri yönetimi",
+            "Tasarım ve mühendislik",
+            "Kabin içi eğlence",
+            "Personel yönetimi"
+          ],
+          "dogru_secenek": "Tasarım ve mühendislik",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Bir uçağın 'black box'u ne işe yarar?",
+          "secenekler": [
+            "Uçağın yakıt seviyesini kontrol eder",
+            "Uçak içindeki siyah rengi korur",
+            "Uçuş verilerini ve ses kaydını kaydeder",
+            "Pilotların günlük notlarını saklar",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Uçuş verilerini ve ses kaydını kaydeder",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "\"Cabin Crew\" terimi hangi görevi ifade eder?",
+          "secenekler": [
+            "Uçak kabininin dekorasyonundan sorumlu ekip",
+            "Kargo yüklemekten sorumlu ekip",
+            "Yolcuların güvenliğinden ve konforundan sorumlu ekip",
+            "Uçağın dış temizliğinden sorumlu ekip",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Yolcuların güvenliğinden ve konforundan sorumlu ekip",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Bir uçakta acil durum tahliyesi gerektiğinde hangi ekipman kullanılır?",
+          "secenekler": [
+            "Acil iniş yolları",
+            "Yangın tüpleri",
+            "Can yelekleri ve emniyet kemerleri",
+            "Tıbbi ekipmanlar",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Can yelekleri ve emniyet kemerleri",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "\"ATC\" havacılık terminolojisinde neyi ifade eder?",
+          "secenekler": [
+            "Air Travel Control",
+            "Airport Traffic Control",
+            "Aircraft Travel Control",
+            "Airline Traffic Control",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Airport Traffic Control",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "\"FAA\" kısaltması neyi ifade eder?",
+          "secenekler": [
+            "Federal Aviation Administration",
+            "Flight Airlines Association",
+            "Flight Attendants Academy",
+            "Federal Airport Authority",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Federal Aviation Administration",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "Hangi belge, Devletin emniyet yönetimi sorumluluklarını genel hatlarıyla tanımlar?",
+          "secenekler": ["Ek 6", "Doc 8984", "Doc 9859", "Ek 19", "Ek 1"],
+          "dogru_secenek": "Ek 19",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "SSP'nin uygulanması ve idame ettirilmesi için hangi belge rehber olarak kullanılır?",
+          "secenekler": [
+            "Emniyet Yönetimi El Kitabı (Doc 9859)",
+            "Sivil Havacılık Tıbbı El Kitabı (Doc 8984)",
+            "Havacılık Emniyet Yönetimi El Kitabı (Doc 9859)",
+            "Uluslararası Havacılık Standartları (Ek 6)",
+            "İlave A"
+          ],
+          "dogru_secenek": "Emniyet Yönetimi El Kitabı (Doc 9859)",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Bir SSP'nin uygulanması ve idame ettirilmesine ilişkin çerçeve hangi belgede yer alır?",
+          "secenekler": ["Doc 8984", "Ek 1", "Ek 6", "Ek 19", "Ek 11"],
+          "dogru_secenek": "Ek 11",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "SSP'nin temel unsurlarından biri olan Devlet emniyet politikası ve amaçları hangi belgede tanımlanır?",
+          "secenekler": ["Doc 8984", "Ek 1", "Ek 6", "Ek 19", "İlave A"],
+          "dogru_secenek": "Ek 1",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Her Devlet, SSP'si kapsamında geniş gövdeli veya turbojet uçakların uluslararası genel havacılık işleticilerinin SMS uygulamalarını neden gerekli kılar?",
+          "secenekler": [
+            "Ticari rekabeti artırmak için",
+            "Emniyet standartlarını sağlamak için",
+            "Maliyetleri düşürmek için",
+            "Teknolojik yenilikleri teşvik etmek için",
+            "Havacılık endüstrisini genişletmek için"
+          ],
+          "dogru_secenek": "Emniyet standartlarını sağlamak için",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "SSP'nin temel unsurlarından biri olan Devlet emniyet politikası ve amaçları neden önemlidir?",
+          "secenekler": [
+            "Maliyetleri artırır",
+            "Havaalanlarının kapasitesini düşürür",
+            "Emniyet kültürünü teşvik eder",
+            "Hava yolu şirketlerinin rekabet gücünü azaltır",
+            "Havaalanlarının uluslararası tanınırlığını azaltır"
+          ],
+          "dogru_secenek": "Emniyet kültürünü teşvik eder",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Hangi belge, havacılık işleticilerinin SMS uygulamalarını gerektiren uluslararası düzenlemeleri içerir?",
+          "secenekler": ["Doc 8984", "Ek 1", "Ek 6", "Ek 19", "İlave A"],
+          "dogru_secenek": "Ek 1",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Hangi durumda, bir ATS sağlayıcısının SMS'si kapsamına giren hizmetlerin ilgili hususları ATS sağlayıcısının SMS'si kapsamına dahil edilir?",
+          "secenekler": [
+            "ATS sağlayıcısı, hizmetlerin tamamını başka bir kuruluşa devrettiğinde",
+            "ATS sağlayıcısı, hizmetlerin tamamını kendi bünyesinde sağladığında",
+            "ATS sağlayıcısı, hizmetlerin bir kısmını kendi bünyesinde sağladığında",
+            "ATS sağlayıcısı, hizmetlerin bir kısmını başka bir kuruluşa devrettiğinde",
+            "ATS sağlayıcısı, hizmetlerin tamamını bir devlete devrettiğinde"
+          ],
+          "dogru_secenek": "ATS sağlayıcısı, hizmetlerin bir kısmını kendi bünyesinde sağladığında",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "SSP'nin uygulanması ve idame ettirilmesi için hangi belge rehber olarak kullanılır?",
+          "secenekler": ["Ek 6", "Doc 8984", "Doc 9859", "Ek 19", "İlave A"],
+          "dogru_secenek": "Doc 9859",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "Hangi belge, emniyet gözetim sisteminin kurulması ve uygulanmasını sağlar?",
+          "secenekler": ["Ek 6", "Doc 8984", "Doc 9859", "Ek 19", "Ek 1"],
+          "dogru_secenek": "Ek 1",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "ALARP prensibi nedir?",
+          "secenekler": [
+            "Olası tüm risklerin kabul edilmesi.",
+            "Risklerin sıfıra indirilmesi.",
+            "Risklerin makul düzeyde azaltılması.",
+            "Risklerin göz ardı edilmesi.",
+            "Risklerin artırılması."
+          ],
+          "dogru_secenek": "Risklerin makul düzeyde azaltılması.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet riski yönetimi hangi temele dayanır?",
+          "secenekler": [
+            "Risklerin artırılması.",
+            "Kaynakların üretim ile tespit edilip ortadan kaldırılması.",
+            "Risklerin saklanması.",
+            "Risklerin görmezden gelinmesi.",
+            "Risklerin arttırılması."
+          ],
+          "dogru_secenek": "Kaynakların üretim ile tespit edilip ortadan kaldırılması.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "İki P İkilemi neyi ifade eder?",
+          "secenekler": [
+            "Üretim ve koruma dengesini.",
+            "Risk ve ödül dengesini.",
+            "Karar alma süreçlerini.",
+            "Kaynak dağıtımını.",
+            "Tehlikelerin göz ardı edilmesini."
+          ],
+          "dogru_secenek": "Üretim ve koruma dengesini.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet riski yönetimi ile risk azaltma arasındaki ilişki nedir?",
+          "secenekler": [
+            "Aynı şeydir.",
+            "Farklı kavramlardır.",
+            "Karşılıklıdır, birbirini tamamlarlar.",
+            "Birbirine zıttır.",
+            "Bağımsızdır, birbiriyle ilişkili değildir."
+          ],
+          "dogru_secenek": "Karşılıklıdır, birbirini tamamlarlar.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet riski tahammül edilebilirlik matrisi hangi aşamada oluşturulur?",
+          "secenekler": [
+            "Emniyet riski değerlendirme matrisinden sonra.",
+            "Risk azaltma stratejilerinden önce.",
+            "Tehlikelerin sonuçlarının önemi belirlendikten sonra.",
+            "Fayda/maliyet analizlerinden sonra.",
+            "Risklerin artışından sonra."
+          ],
+          "dogru_secenek": "Tehlikelerin sonuçlarının önemi belirlendikten sonra.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "İki P İkilemi neyi ifade eder?",
+          "secenekler": [
+            "Üretim ve koruma dengesini.",
+            "Risk ve ödül dengesini.",
+            "Karar alma süreçlerini.",
+            "Kaynak dağıtımını.",
+            "Tehlikelerin göz ardı edilmesini."
+          ],
+          "dogru_secenek": "Üretim ve koruma dengesini.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet riski tahammül edilebilirlik matrisi hangi aşamada oluşturulur?",
+          "secenekler": [
+            "Emniyet riski değerlendirme matrisinden sonra.",
+            "Risk azaltma stratejilerinden önce.",
+            "Tehlikelerin sonuçlarının önemi belirlendikten sonra.",
+            "Fayda/maliyet analizlerinden sonra.",
+            "Risklerin artışından sonra."
+          ],
+          "dogru_secenek": "Tehlikelerin sonuçlarının önemi belirlendikten sonra.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Risk kontrolü ve risk azaltma arasındaki fark nedir?",
+          "secenekler": [
+            "Aynı şeydir.",
+            "Farklı kavramlardır.",
+            "Karşılıklıdır, birbirini tamamlarlar.",
+            "Birbirine zıttır.",
+            "Bağımsızdır, birbiriyle ilişkili değildir."
+          ],
+          "dogru_secenek": "Farklı kavramlardır.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet riski değerlendirme matrisi neyi ifade eder?",
+          "secenekler": [
+            "Olasılık ve şiddet değerlendirmesi.",
+            "Tehlikelerin sonuçlarının önemini belirleme.",
+            "Risk azaltma stratejilerini belirleme.",
+            "Maliyet analizlerini belirleme.",
+            "Emniyet risklerini artırma."
+          ],
+          "dogru_secenek": "Olasılık ve şiddet değerlendirmesi.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet riski olasılık tablosunda \"Çok az\" kategorisi neyi ifade eder?",
+          "secenekler": [
+            "Tehlikelerin sık görülmesini.",
+            "Olayların nadiren gerçekleştiğini.",
+            "Emniyet riskinin sıfır olduğunu.",
+            "Emniyet riskinin çok yüksek olduğunu.",
+            "Emniyet riskinin orta düzeyde olduğunu."
+          ],
+          "dogru_secenek": "Olayların nadiren gerçekleştiğini.",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Havacılık emniyetiyle ilgili olarak 'ikincil tehlikeler' ne anlama gelir?",
+          "secenekler": [
+            "Ana tehlikelerin neden olduğu direkt tehlikeler",
+            "İlk etapta belirgin olmayan, ancak daha sonra ortaya çıkabilen tehlikeler",
+            "İnsan kaynaklı tehlikeler",
+            "Yetersiz bakım nedeniyle ortaya çıkan tehlikeler",
+            "Hava koşullarından kaynaklanan tehlikeler"
+          ],
+          "dogru_secenek": "Ana tehlikelerin neden olduğu direkt tehlikeler",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Havacılık emniyeti yönetim sisteminde (SMS) 'Risk Değerlendirmesi' neyi ifade eder?",
+          "secenekler": [
+            "Geçmiş kazaların analizi",
+            "Mevcut risklerin tanımlanması, analizi ve değerlendirilmesi",
+            "Yeni personelin eğitimi",
+            "Teknik ekipman bakımı",
+            "Hava trafik kontrolü"
+          ],
+          "dogru_secenek": "Teknik ekipman bakımı",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "'Havacılık Emniyet Yönetimi Sistemi' (SMS) hangi temel unsurları içerir?",
+          "secenekler": [
+            "Yalnızca pilotları ve kabin ekibini",
+            "Yalnızca teknik ekipmanları",
+            "Yalnızca havaalanlarını",
+            "Politika, risk değerlendirmesi, güvenlik güvencesi, promosyon ve eğitim",
+            "Yalnızca hava trafik kontrolünü"
+          ],
+          "dogru_secenek": "Yalnızca havaalanlarını",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "'Emniyet Kültürü' nedir?",
+          "secenekler": [
+            "Bir havayolu şirketinin kazanç kültürü",
+            "Bir kuruluşun emniyetle ilgili değerlerinin, inançlarının, normlarının ve davranışlarının toplamı",
+            "Emniyeti ihmal etme kültürü",
+            "Yalnızca teknik ekipman kültürü",
+            "Yalnızca pilotların kültürü"
+          ],
+          "dogru_secenek": "Emniyeti ihmal etme kültürü",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Havacılıkta 'CRM' (Crew Resource Management) neyi ifade eder?",
+          "secenekler": [
+            "Yalnızca kabin ekibinin yönetimini",
+            "Pilotların eğitimini",
+            "Uçuş ekibinin kaynak yönetimi",
+            "Yalnızca teknik ekipmanların yönetimini",
+            "Havaalanı kaynaklarının yönetimini"
+          ],
+          "dogru_secenek": "Uçuş ekibinin kaynak yönetimi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Havacılık emniyetinde 'acil durum prosedürleri' neyi içerir?",
+          "secenekler": [
+            "Kabin basıncı",
+            "İlk yardım eğitimi",
+            "Yangınla mücadele",
+            "Yalnızca pilotların prosedürleri",
+            "Teknik arıza prosedürleri"
+          ],
+          "dogru_secenek": "İlk yardım eğitimi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "'Havacılıkta hatalı kararlar' hangi unsurlardan etkilenebilir?",
+          "secenekler": [
+            "Teknolojik faktörler",
+            "Yönetim faktörleri",
+            "Personel faktörleri",
+            "Tümü",
+            "Yalnızca meteorolojik faktörler"
+          ],
+          "dogru_secenek": "Teknolojik faktörler",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Havacılıkta 'yaklaşım ve iniş prosedürleri' hangi unsurları içerir?",
+          "secenekler": [
+            "Yalnızca pilot prosedürlerini",
+            "Kabin ekip prosedürlerini",
+            "Meteorolojik prosedürleri",
+            "Yolcu emniyet prosedürlerini",
+            "Pist durumu prosedürlerini"
+          ],
+          "dogru_secenek": "Meteorolojik prosedürleri",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Havacılıkta 'kontrol kaybı' ne anlama gelir?",
+          "secenekler": [
+            "Uçağın kontrolünü tamamen kaybetmesi",
+            "Sadece radyo kontrolünün kaybolması",
+            "Yalnızca pilottan kaynaklanan bir hata",
+            "Teknik arıza",
+            "Tümü"
+          ],
+          "dogru_secenek": "Uçağın kontrolünü tamamen kaybetmesi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "Havacılıkta 'en tehlikeli an' ne zaman olur?",
+          "secenekler": [
+            "Kalkışta",
+            "Yaklaşma ve iniş sırasında",
+            "Sabit uçuşta",
+            "Teknik arıza sırasında",
+            "Tüm uçuş boyunca"
+          ],
+          "dogru_secenek": "Kalkışta",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ]
+    },
+    "zor_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "Hangisi emniyet risk yönetimi sürecinin bir parçasıdır?",
+          "secenekler": [
+            "Sadece tehlike tanımlama",
+            "Yalnızca tehlikelerin kontrol altına alınması",
+            "Tehlike tanımlama, değerlendirme, kontrol ve izleme",
+            "Yalnızca tehlike değerlendirme",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Tehlike tanımlama, değerlendirme, kontrol ve izleme",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Değişiklik yönetimi sürecinde hangi adımlar yer alır?",
+          "secenekler": [
+            "Yalnızca değişikliğin tanımlanması ve uygulanması",
+            "Değişikliğin tanımlanması, değerlendirilmesi, onaylanması ve uygulanması",
+            "Sadece değişikliğin uygulanması",
+            "Yalnızca değişikliğin onaylanması ve uygulanması",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Değişikliğin tanımlanması, değerlendirilmesi, onaylanması ve uygulanması",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Havacılık kazalarını en aza indirmek için Emniyet Yönetim Sistemi (Safety Management System - SMS) uygulamaları neyi hedefler?",
+          "secenekler": [
+            "Kazaların tamamen önlenmesini",
+            "Riskleri tanımlamayı, değerlendirmeyi ve kontrol etmeyi",
+            "Pilot eğitimini artırmayı",
+            "Uçuş rotalarını değiştirmeyi",
+            "Hava trafik kontrol sistemlerini güçlendirmeyi"
+          ],
+          "dogru_secenek": "Riskleri tanımlamayı, değerlendirmeyi ve kontrol etmeyi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet Yönetim Sistemi kapsamında, hangi faaliyet havacılık işletmesinin en önemli hedeflerinden biridir?",
+          "secenekler": [
+            "Emniyet politikası oluşturmak",
+            "Personelin maaşlarını artırmak",
+            "Emniyet performansını gözlemlemek",
+            "Havacılık ekipmanlarını satmak",
+            "Uçuş rotalarını sık sık değiştirmek"
+          ],
+          "dogru_secenek": "Emniyet performansını gözlemlemek",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet Yönetim Sistemi'nin başarılı bir şekilde uygulanması için hangi adımın önemi üzerinde durulmaktadır?",
+          "secenekler": [
+            "Düzeltici faaliyetlerin zamanında uygulanmasını sağlamak",
+            "Emniyet politikası ve stratejisinin ihmal edilmesi",
+            "Havacılık ekipmanlarının satışının artırılması",
+            "Çalışanların emniyet raporlamasının göz ardı edilmesi",
+            "Uçuş rotalarının sürekli olarak değiştirilmesi"
+          ],
+          "dogru_secenek": "Düzeltici faaliyetlerin zamanında uygulanmasını sağlamak",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Sorumlu Müdürün havacılık işletmesindeki en önemli görevlerinden biri hangisidir ve neden önemlidir?",
+          "secenekler": [
+            "Emniyet politikasının oluşturulmasını sağlamak; çünkü bu, işletmenin emniyet kültürünü belirler",
+            "Personelin maaşlarını belirlemek; çünkü bu, işletmenin karlılığını artırır",
+            "Havacılık ekipmanlarının satışını artırmak; çünkü bu, işletmenin prestijini yükseltir",
+            "Uçuş rotalarını sık sık değiştirmek; çünkü bu, müşteri memnuniyetini artırır",
+            "Çalışanların tatil günlerini belirlemek; çünkü bu, işletmenin verimliliğini artırır"
+          ],
+          "dogru_secenek": "Emniyet politikasının oluşturulmasını sağlamak; çünkü bu, işletmenin emniyet kültürünü belirler",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "SPI'lar, havacılık işletmelerinde neden önemlidir?",
+          "secenekler": [
+            "Emniyet risklerini artırmak için",
+            "Operasyonel etkileşimleri karmaşık hale getirmek için",
+            "Emniyet hedeflerine ulaşma derecesini izlemek ve emniyet kazanımlarını yakalamak için",
+            "Havacılık ekipmanlarını satmak için",
+            "Tehlike ve riskleri görmezden gelmek için"
+          ],
+          "dogru_secenek": "Emniyet hedeflerine ulaşma derecesini izlemek ve emniyet kazanımlarını yakalamak için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "\"Emniyet performansı göstergesi\" neye dayanır?",
+          "secenekler": [
+            "Havayolu şirketlerinin reklam bütçesine.",
+            "Havaalanı terminallerinin büyüklüğüne.",
+            "Uçuş ekibinin maaşlarına.",
+            "Veri tabanlı parametrelere.",
+            "Yolcu memnuniyet anketlerine."
+          ],
+          "dogru_secenek": "Veri tabanlı parametrelere.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "\"Emniyet yönetimi sistemi (SMS)\" neyi içerir?",
+          "secenekler": [
+            "Havayolu şirketinin kurumsal kimliğini.",
+            "Emniyetli uçuş operasyonlarını sağlamak için sistematik bir yaklaşımı.",
+            "Yolcuların seyahat deneyimini iyileştirmeyi.",
+            "Havaalanı terminalindeki güvenlik personelini.",
+            "Hava trafik kontrolörlerinin eğitim seviyesini."
+          ],
+          "dogru_secenek": "Emniyetli uçuş operasyonlarını sağlamak için sistematik bir yaklaşımı.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Bir hava aracının \"kaza\" olarak kabul edilmesi için hangi durumlar gereklidir?",
+          "secenekler": [
+            "Sadece hava aracında hasar olması.",
+            "Yolcuların kabinde bulunması.",
+            "İnsanların ciddi şekilde yaralanması.",
+            "Hava aracının kaybolması.",
+            "Uçuş ekibinin yorgun olması."
+          ],
+          "dogru_secenek": "İnsanların ciddi şekilde yaralanması.",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "\"Sektörel uygulama esasları\" hangi kaynaklara dayanır?",
+          "secenekler": [
+            "Uluslararası Sivil Havacılık Teşkilatı'nın Standartları ve Tavsiye Edilen Uygulamaları'na.",
+            "Yerel restoran menülerine.",
+            "Havaalanı terminallerinin güvenlik politikalarına.",
+            "Yolcu taşıyan araçlardaki güvenlik önlemlerine.",
+            "Havaalanı VIP salonlarının hizmet standartlarına."
+          ],
+          "dogru_secenek": "Uluslararası Sivil Havacılık Teşkilatı'nın Standartları ve Tavsiye Edilen Uygulamaları'na.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "\"Emniyet riski\" neyi belirlemeyi amaçlar?",
+          "secenekler": [
+            "Havayolu bilet fiyatlarını.",
+            "Uçuş ekibinin motivasyonunu.",
+            "Tehlikelerin vuku bulma ihtimalini ve sonuçlarını.",
+            "Havaalanı güvenlik personelinin çalışma saatlerini.",
+            "Uçakta sunulan yemek menüsünü."
+          ],
+          "dogru_secenek": "Tehlikelerin vuku bulma ihtimalini ve sonuçlarını.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Havacılık kuruluşlarının emniyet performansını ölçmek için neden düşük seviyeli ve düşük sonuçlu olayları tercih etmeleri gerekmektedir?",
+          "secenekler": [
+            "Emniyet yönetim sisteminin etkinliğinin objektif olarak değerlendirilmesi için",
+            "Havacılık reklam kampanyalarının başarısını ölçmek için",
+            "Operasyonel faaliyetlerin izlenmesi ve değerlendirilmesi için",
+            "Yolcu memnuniyetinin artırılması için",
+            "Kâr marjının yükseltilmesi için"
+          ],
+          "dogru_secenek": "Emniyet yönetim sisteminin etkinliğinin objektif olarak değerlendirilmesi için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet performansının ölçülmesi için hangi türden verilere ihtiyaç duyulmaktadır?",
+          "secenekler": [
+            "Nicel ve nitel emniyet performansı göstergeleri",
+            "Havaalanı VIP salonlarının hizmet standartları",
+            "Havacılık reklam bütçeleri",
+            "Yolcu memnuniyet anketleri",
+            "Kargo taşımacılığı maliyetleri"
+          ],
+          "dogru_secenek": "Nicel ve nitel emniyet performansı göstergeleri",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "ICAO SARP'lerine göre, havacılık kuruluşları üst yönetimin emniyetle ilgili doğrudan hesap verme yükümlülüğünü neden bilmelidir?",
+          "secenekler": [
+            "Emniyet yönetim sisteminin etkinliğinin artırılması için",
+            "Reklam gelirlerinin artırılması için",
+            "Operasyonel faaliyetlerin izlenmesi ve değerlendirilmesi için",
+            "Yolcu memnuniyetinin artırılması için",
+            "Kâr marjının yükseltilmesi için"
+          ],
+          "dogru_secenek": "Operasyonel faaliyetlerin izlenmesi ve değerlendirilmesi için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "SMS'nin açıklık özelliği neden önemlidir?",
+          "secenekler": [
+            "Bilgi saklamak için",
+            "Sorumlulukları paylaşmak için",
+            "Tehlikeleri gizlemek için",
+            "Emniyet yönetimini geliştirmek için"
+          ],
+          "dogru_secenek": "Emniyet yönetimini geliştirmek için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "SMS uygulama planlarının oluşturulmasında dikkate alınan bir faktör nedir?",
+          "secenekler": [
+            "Havacılık tarihi",
+            "Örgüt yapısı",
+            "Pilotların eğitim seviyesi",
+            "Uçak markası ve modeli"
+          ],
+          "dogru_secenek": "Örgüt yapısı",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet politikasının altında hangi taahhütler bulunur?",
+          "secenekler": [
+            "Operasyonel verimlilik",
+            "Pazar rekabeti",
+            "Çevresel sürdürülebilirlik",
+            "En yüksek emniyet standartlarının elde edilmesi",
+            "Stratejik işbirlikleri"
+          ],
+          "dogru_secenek": "En yüksek emniyet standartlarının elde edilmesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet Yönetim Sistemi'nde GAP analizi aşağıdaki hususlardan hangisini değerlendirmek için yapılır?",
+          "secenekler": [
+            "Pazar payı analizi",
+            "Emniyet politikasının etkinliği",
+            "Rekabet stratejileri",
+            "Yatırım getirisi",
+            "Çalışan memnuniyeti"
+          ],
+          "dogru_secenek": "Emniyet politikasının etkinliği",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Sorumlu müdürün imzaladığı emniyet politikası genellikle aşağıdakilerden hangisini içerir?",
+          "secenekler": [
+            "Yatırım stratejileri",
+            "Sosyal medya politikası",
+            "İş etiği kuralları",
+            "Emniyet standartlarının sağlanması",
+            "Tedarikçi ilişkileri yönetimi"
+          ],
+          "dogru_secenek": "Emniyet standartlarının sağlanması",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet hizmetleri biriminin (EHtemel görevlerinden biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Maliyet analizi",
+            "Pazar araştırması",
+            "Operasyonel emniyet performansının izlenmesi",
+            "İnsan kaynakları yönetimi",
+            "Reklam kampanyalarının tasarımı"
+          ],
+          "dogru_secenek": "Operasyonel emniyet performansının izlenmesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Acil müdahale planlaması genellikle hangi durumlar için hazırlanır?",
+          "secenekler": [
+            "İnsan kaynakları planlaması",
+            "Rekabet analizi",
+            "Operasyonel risklerin azaltılması",
+            "Satış stratejileri",
+            "Sosyal medya yönetimi"
+          ],
+          "dogru_secenek": "Operasyonel risklerin azaltılması",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet yöneticisinin görevlerinden biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Finansal raporlama yapmak",
+            "Pazarlama stratejilerini belirlemek",
+            "Operasyonel tehlikeleri analiz etmek",
+            "İnsan kaynakları yönetimi",
+            "Tedarikçi ilişkileri yönetimi"
+          ],
+          "dogru_secenek": "Operasyonel tehlikeleri analiz etmek",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet yönetim sistemi el kitabı (SMSM) genellikle aşağıdaki hususlardan hangisini içerir?",
+          "secenekler": [
+            "Pazarlama stratejileri",
+            "İnsan kaynakları politikası",
+            "Emniyet performansının ölçümü",
+            "Finansal raporlar",
+            "Reklam kampanyalarının planlanması"
+          ],
+          "dogru_secenek": "Emniyet performansının ölçümü",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "SMS uygulama planları hangi konuları içerebilir?",
+          "secenekler": [
+            "İş etiği kuralları",
+            "Tedarikçi ilişkileri yönetimi",
+            "Emniyet politikası ve hedefleri",
+            "Maliyet analizi",
+            "Rekabet stratejileri"
+          ],
+          "dogru_secenek": "Emniyet politikası ve hedefleri",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet hizmetleri birimi (EHne tür faaliyetleri yerine getirir?",
+          "secenekler": [
+            "İş süreçlerinin otomasyonu",
+            "Pazar araştırması",
+            "Operasyonel emniyet performansının izlenmesi",
+            "İnsan kaynakları yönetimi",
+            "Yeni ürün geliştirme"
+          ],
+          "dogru_secenek": "Operasyonel emniyet performansının izlenmesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet yönetim sistemi el kitabı (SMSM) oluşturan unsurlardan biri aşağıdakilerden hangisidir?",
+          "secenekler": [
+            "Pazarlama stratejileri",
+            "Yüklenicilere verilen etkinlikler",
+            "Maliyet analizi",
+            "Sosyal medya politikası",
+            "Rekabet analizi"
+          ],
+          "dogru_secenek": "Yüklenicilere verilen etkinlikler",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Acil müdahale planlamasının temel hedefi nedir?",
+          "secenekler": [
+            "Operasyonel risklerin artırılması",
+            "Emniyet standartlarının düşürülmesi",
+            "Normal faaliyetlere emniyetli bir şekilde dönüş yapılması",
+            "Rekabet avantajı elde etmek",
+            "Sosyal medya kampanyaları oluşturmak"
+          ],
+          "dogru_secenek": "Normal faaliyetlere emniyetli bir şekilde dönüş yapılması",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet güvencesi ve kalite güvencesi arasındaki temel farklar nelerdir?",
+          "secenekler": [
+            "Emniyet güvencesi mevcut sistemlerin performansını ölçerken, kalite güvencesi yeni sistemlerin performansını ölçer.",
+            "Emniyet güvencesi ürünlerin, kalite güvencesi ise süreçlerin performansını ölçer.",
+            "Emniyet güvencesi operasyonel faaliyetlerin süreli olarak iyileştirilmesini sağlarken, kalite güvencesi sistemlerin performansını ölçer.",
+            "Emniyet güvencesi sürekli iyileştirme ilkesi üzerine kurulurken, kalite güvencesi değişim yönetimi ilkesine dayanır.",
+            "Emniyet güvencesi sistemin emniyet performansı ile ilgili geri bildirim sağlar, kalite güvencesi ise kalite hedeflerine ulaşılıp ulaşılmadığını değerlendirir."
+          ],
+          "dogru_secenek": "Emniyet güvencesi sistemin emniyet performansı ile ilgili geri bildirim sağlar, kalite güvencesi ise kalite hedeflerine ulaşılıp ulaşılmadığını değerlendirir.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet riski yönetimi sürecinde değişim yönetimi neden önemlidir?",
+          "secenekler": [
+            "Emniyet risklerinin sürekli olarak artmasını sağlar.",
+            "Sistem içerisine kasıt olarak tehlikeler ekleyebilir.",
+            "ALARP seviyesine ulaşmak için stratejiler geliştirebilir.",
+            "Operasyonel faaliyetlerin sürekli iyileştirilmesini sağlar.",
+            "Yeni emniyet riski kontrolleri gerekliliğinin belirlenmesine yardımcı olur."
+          ],
+          "dogru_secenek": "Operasyonel faaliyetlerin sürekli iyileştirilmesini sağlar.",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet riskleriyle ilgili gönüllü raporlama neden önemlidir?",
+          "secenekler": [
+            "Personelin cezalandırılmasını sağlar.",
+            "Emniyet bilincini artırır ve emniyet kültürünü güçlendirir.",
+            "Emniyet risklerini artırır.",
+            "Tehlikelerin gizlenmesine yardımcı olur.",
+            "Emniyet risklerinin kontrol edilmesini zorlaştırır."
+          ],
+          "dogru_secenek": "Emniyet bilincini artırır ve emniyet kültürünü güçlendirir.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet iletişimi neden önemlidir?",
+          "secenekler": [
+            "Emniyet bilincini azaltır.",
+            "İnsan kaynaklarını etkisiz hale getirir.",
+            "Operasyonel faaliyetlerin kalitesini artırır.",
+            "Emniyet bilgilerinin doğru ve etkin bir şekilde iletilmesini sağlar.",
+            "Emniyet risklerini artırır."
+          ],
+          "dogru_secenek": "Emniyet bilgilerinin doğru ve etkin bir şekilde iletilmesini sağlar.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet riski yönetimi sürecinde hangi adımların etkin bir şekilde gerçekleştirilmesi gereklidir?",
+          "secenekler": [
+            "Sadece tehlike tanımlama",
+            "Sadece risk değerlendirmesi",
+            "Sadece risk kontrolü",
+            "Tehlike tanımlama, risk değerlendirmesi ve risk kontrolü",
+            "Tehlike tanımlama ve risk değerlendirmesi"
+          ],
+          "dogru_secenek": "Tehlike tanımlama, risk değerlendirmesi ve risk kontrolü",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "SMS uygulamasında aşamaların belirlenmesi hangi temele dayanır?",
+          "secenekler": [
+            "Ulusal yasal gerekliliklere",
+            "Uluslararası SARP'lere",
+            "Finansal performansa",
+            "Rekabet analizine",
+            "Yönetici tercihlerine"
+          ],
+          "dogru_secenek": "Ulusal yasal gerekliliklere",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Bir kaza durumu hangi koşullarda gerçekleşir?",
+          "secenekler": [
+            "Doğal sebeplerden kaynaklanan yaralanmaların olduğu durumlarda",
+            "Hava aracının kaybolması veya erişilemez hale gelmesi durumunda",
+            "Hava aracının yüzeyindeki küçük çentiklerin oluşması durumunda",
+            "Hava aracının havadan ağır olduğu durumlarda",
+            "Jet akımına doğrudan maruz kalmanın olduğu durumlarda"
+          ],
+          "dogru_secenek": "Doğal sebeplerden kaynaklanan yaralanmaların olduğu durumlarda",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Hangisi 'Olay' teriminin tanımına uymaz?",
+          "secenekler": [
+            "Emniyeti etkileyebilecek bir hava aracı operasyonu",
+            "Emniyet ile ilgili çalışmaların ilgi alanına giren belirli olay türleri",
+            "Kaza sonrası yapılan inceleme raporu",
+            "Havacılık faaliyetinin emniyetine etki edebilecek bir durum",
+            "Emniyet bilgilerinin raporlanmasına ilişkin pozisyonlar"
+          ],
+          "dogru_secenek": "Kaza sonrası yapılan inceleme raporu",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "\"Emniyet yönetimi sistemi (SMS)\" nedir?",
+          "secenekler": [
+            "Emniyet performansını gözlemlemek için kullanılan bir sistem",
+            "Havacılık faaliyetlerinde emniyeti artırmak için kullanılan bir yaklaşım",
+            "Teknik hataları tespit etmek için kullanılan bir sistem",
+            "Hava aracının yapısal mukavemetini test etmek için kullanılan bir sistem",
+            "Emniyet risklerini artıran bir sistem"
+          ],
+          "dogru_secenek": "Havacılık faaliyetlerinde emniyeti artırmak için kullanılan bir yaklaşım",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Hangisi \"Emniyet performansı göstergesi\"nin tanımına uymaz?",
+          "secenekler": [
+            "Emniyet performansını değerlendirmek için kullanılan bir parametre",
+            "Emniyet performansının takibi için kullanılan bir veri tabanı",
+            "Havacılık faaliyetlerindeki riskleri belirlemek için kullanılan bir ölçüm aracı",
+            "Emniyet performansını iyileştirmek için kullanılan bir strateji",
+            "Emniyet hedeflerinin belirlenmesine yardımcı olan bir araç"
+          ],
+          "dogru_secenek": "Emniyet performansını iyileştirmek için kullanılan bir strateji",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Bir hava aracının \"Tasarım Devleti\" terimi neyi ifade eder?",
+          "secenekler": [
+            "Hava aracının son montajından sorumlu kuruluş",
+            "Havacılık tasarım standartlarını belirleyen kuruluş",
+            "Tip tasarımından sorumlu olan yargı yetkisine sahip devlet",
+            "Hava aracının üretim sürecini denetleyen devlet",
+            "Hava aracının imalatında kullanılan malzemeleri belirleyen devlet"
+          ],
+          "dogru_secenek": "Tip tasarımından sorumlu olan yargı yetkisine sahip devlet",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Bir kaza durumu hangi koşullarda gerçekleşir?",
+          "secenekler": [
+            "Yaralanmaların doğal sebeplerden kaynaklandığı durumlar",
+            "Hava aracının yapısında küçük çaplı hasarlar meydana geldiği durumlar",
+            "Hava aracının tamamen erişilemez hale geldiği durumlar",
+            "Hava aracının havadan ağır olduğu durumlar",
+            "Hava aracında normal uçuşun gerçekleştiği durumlar"
+          ],
+          "dogru_secenek": "Yaralanmaların doğal sebeplerden kaynaklandığı durumlar",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ]
+    }
+  },
+  "C_departmani": {
+    "kolay_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "Hangisi emniyet bilgilerinin değişimi için önerilen bir adımdır?",
+          "secenekler": [
+            "Bilgi teatisini kolaylaştırmak için standartize edilen formatlar kullanılmalıdır.",
+            "Bilgi paylaşım ağları kurulmalıdır.",
+            "Her iki seçenek de doğrudur.",
+            "Hiçbiri."
+          ],
+          "dogru_secenek": "Bilgi paylaşım ağları kurulmalıdır.",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "Bir Devletin, gerçek veya olası emniyet açıklarını raporlamak için kurması gereken sisteme ne denir?",
+          "secenekler": [
+            "Gönüllü olay raporlama sistemi",
+            "Zorunlu olay raporlama sistemi",
+            "Güvenlik veri tabanı",
+            "Emniyet gözetim sistemi"
+          ],
+          "dogru_secenek": "Zorunlu olay raporlama sistemi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet verilerinin analizi için ne tür bir veri tabanı tesis edilmelidir?",
+          "secenekler": [
+            "Finansal veri tabanı",
+            "İnsan kaynakları veri tabanı",
+            "Emniyet veri tabanı",
+            "Üretim veri tabanı"
+          ],
+          "dogru_secenek": "Emniyet veri tabanı",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet verilerinin korunması için hangi tür bir raporlama sistemi tavsiye edilir?",
+          "secenekler": [
+            "Cezalandırmaya dayalı raporlama sistemi",
+            "Gönüllülük esasına dayalı raporlama sistemi",
+            "Yasalara dayalı raporlama sistemi",
+            "Özel raporlama sistemi"
+          ],
+          "dogru_secenek": "Gönüllülük esasına dayalı raporlama sistemi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet bilgilerinin değişimi için hangi tür bir tavsiye verilmiştir?",
+          "secenekler": [
+            "Bilgi saklama tavsiyesi",
+            "Bilgi paylaşım ağı kurma tavsiyesi",
+            "Bilgi gizleme tavsiyesi",
+            "Bilgi raporlama tavsiyesi"
+          ],
+          "dogru_secenek": "Bilgi paylaşım ağı kurma tavsiyesi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet gözetim sistemi kapsamında hangi türden personel istihdam edilmelidir?",
+          "secenekler": [
+            "Niteliksiz personel",
+            "Nitelikli personel",
+            "Yetersiz personel",
+            "Deneyimsiz personel"
+          ],
+          "dogru_secenek": "Nitelikli personel",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet sorunlarının çözüme kavuşturulması için hangi tür bir süreç kullanılmalıdır?",
+          "secenekler": [
+            "Dokümante edilen süreç",
+            "Gizli süreç",
+            "Hızlı süreç",
+            "Karmaşık süreç"
+          ],
+          "dogru_secenek": "Dokümante edilen süreç",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Hangi tür veri tabanı, emniyet verilerinin analizi için kullanılır?",
+          "secenekler": [
+            "Finansal veri tabanı",
+            "İnsan kaynakları veri tabanı",
+            "Emniyet veri tabanı",
+            "Müşteri veri tabanı"
+          ],
+          "dogru_secenek": "Emniyet veri tabanı",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Gönüllülük esasına dayalı olay raporlama sistemi hangi tür bir ortamı gerektirir?",
+          "secenekler": [
+            "Cezalandırıcı ortam",
+            "Teşvik edici ortam",
+            "Kısıtlayıcı ortam",
+            "Gizli ortam"
+          ],
+          "dogru_secenek": "Teşvik edici ortam",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet verilerinin korunması için hangi tür bir tavsiye verilmiştir?",
+          "secenekler": [
+            "Bilgi gizleme tavsiyesi",
+            "Bilgi paylaşımı tavsiyesi",
+            "Bilgi ifşa etme tavsiyesi",
+            "Bilgi saklama tavsiyesi"
+          ],
+          "dogru_secenek": "Bilgi gizleme tavsiyesi",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "Hangi tür bir veri tabanı, kaza ve olay verilerini içerebilir?",
+          "secenekler": [
+            "Finansal veri tabanı",
+            "İnsan kaynakları veri tabanı",
+            "Emniyet veri tabanı",
+            "Pazar araştırması veri tabanı"
+          ],
+          "dogru_secenek": "Emniyet veri tabanı",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "Hangisi uçak üretiminde en önemli faktörlerden biri değildir?",
+          "secenekler": [
+            "Güvenlik",
+            "Performans",
+            "Renk seçimi",
+            "Yakıt verimliliği",
+            "Konfor"
+          ],
+          "dogru_secenek": "Renk seçimi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Uçakların tasarımında kullanılan bir malzeme hangisidir?",
+          "secenekler": ["Demir", "Ahşap", "Plastik", "Alüminyum", "Cam"],
+          "dogru_secenek": "Alüminyum",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Uçaklarda hangisi navigasyon için kullanılan bir sistemdir?",
+          "secenekler": [
+            "ABS fren sistemi",
+            "Hava radarı",
+            "GPS",
+            "Otomatik pilot",
+            "Klima sistemi"
+          ],
+          "dogru_secenek": "GPS",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Uçak üretimi sırasında hangi aşama en başta gerçekleşir?",
+          "secenekler": [
+            "Motor montajı",
+            "Gövde imalatı",
+            "Boya işlemi",
+            "Kanat montajı",
+            "İç tasarım"
+          ],
+          "dogru_secenek": "Gövde imalatı",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Uçakların düşük yakıt tüketimi için hangisi sağlanmalıdır?",
+          "secenekler": [
+            "Yüksek hız",
+            "Geniş gövde",
+            "Hafif malzeme kullanımı",
+            "Düşük kanat genişliği",
+            "Büyük motor gücü"
+          ],
+          "dogru_secenek": "Hafif malzeme kullanımı",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "Sivil havacılık nedir?",
+          "secenekler": [
+            "Sadece askeri uçakların kullanımı",
+            "Ticari ve sivil uçuşların tümü",
+            "Sadece özel jetlerin kullanımı",
+            "Yalnızca hava yolu pilotlarının mesleği",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Ticari ve sivil uçuşların tümü",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Havacılık endüstrisi aşağıdaki alanlardan hangisini kapsar?",
+          "secenekler": [
+            "Yalnızca uçak üretimi",
+            "Yalnızca havalimanı işletmeciliği",
+            "Uçak üretimi, havalimanı işletmeciliği, hava taşımacılığı ve havacılık hizmetleri",
+            "Sadece pilot eğitimi",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Uçak üretimi, havalimanı işletmeciliği, hava taşımacılığı ve havacılık hizmetleri",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Bir uçağın taşıma kapasitesi hangi unsurlara bağlıdır?",
+          "secenekler": [
+            "Motor gücü",
+            "Kanat uzunluğu",
+            "Gövde boyutu",
+            "Ağırlık ve hacim",
+            "Yalnızca motor tipi"
+          ],
+          "dogru_secenek": "Ağırlık ve hacim",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Sivil havacılık endüstrisi neden önemlidir?",
+          "secenekler": [
+            "Ekonomik büyümeyi destekler",
+            "Sadece zengin insanların kullanımı içindir",
+            "Çevreye zarar verir",
+            "Yalnızca turistik seyahatler için önemlidir",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Ekonomik büyümeyi destekler",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "IATA'nın (Uluslararası Hava Taşımacılığı Birliği) temel amacı nedir?",
+          "secenekler": [
+            "Teknolojik yeniliklerin geliştirilmesi",
+            "Havayolu şirketlerinin karlarının artırılması",
+            "Havacılık güvenliğinin sağlanması ve sivil havacılığın geliştirilmesi",
+            "Yalnızca pilotların eğitimi",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Havacılık güvenliğinin sağlanması ve sivil havacılığın geliştirilmesi",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "SMS uygulanmasına ilişkin kılavuz ilkeler hangi belgede yer almaktadır?",
+          "secenekler": [
+            "Emniyet Yönetimi El Kitabı",
+            "Havacılık Yasası",
+            "SMS Kılavuzu",
+            "Sivil Havacılık Kuralları"
+          ],
+          "dogru_secenek": "Emniyet Yönetimi El Kitabı",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "Hizmet sağlayıcı terimi neyi ifade eder?",
+          "secenekler": [
+            "Havayolu şirketi",
+            "Havaalanı işletmecisi",
+            "Belirli kuruluşlara atıf yapmaktadır",
+            "Pilot"
+          ],
+          "dogru_secenek": "Belirli kuruluşlara atıf yapmaktadır",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Hangi maddeye göre bir hizmet sağlayıcının SMS'si tesis edilmelidir?",
+          "secenekler": [
+            "Madde 4.1.1",
+            "Madde 4.1.2",
+            "Madde 4.1.3",
+            "Madde 4.1.4"
+          ],
+          "dogru_secenek": "Madde 4.1.1",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Onaylı bir eğitim kuruluşunun SMS'si kabul edilebilir hale getirilirken kim(ler) tarafından değerlendirilir?",
+          "secenekler": [
+            "Kuruluşun müşterileri",
+            "İlgili Devlet(ler)",
+            "Uluslararası bir kuruluş",
+            "Bir sivil havacılık otoritesi"
+          ],
+          "dogru_secenek": "İlgili Devlet(ler)",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "Uluslararası ticari hava taşımacılığı yapmak üzere yetkilendirilen uçakların SMS'si hangi maddeye göre kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "Madde 4.1.2",
+            "Madde 4.1.3",
+            "Madde 4.1.4",
+            "Madde 4.1.5"
+          ],
+          "dogru_secenek": "Madde 4.1.3",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "ATS sağlayıcısının SMS'si hangi durumda kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "Hizmetlerin tamamı bir ATS sağlayıcısı tarafından sağlandığında",
+            "Hizmetlerin bir kısmı bir ATS sağlayıcısı tarafından sağlandığında",
+            "Hizmetler ATS sağlayıcısı tarafından değil başka bir kuruluş tarafından sağlandığında",
+            "ATS sağlayıcısı hizmetlerini durdurduğunda"
+          ],
+          "dogru_secenek": "Hizmetlerin tamamı bir ATS sağlayıcısı tarafından sağlandığında",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Hava aracının tip tasarımından sorumlu olan bir kuruluşun SMS'si nerede kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "İşleticinin Devleti nezdinde",
+            "Tasarım Devleti nezdinde",
+            "İmalat Devleti nezdinde",
+            "Havaalanının sertifikasyonundan sorumlu olan Devlet nezdinde"
+          ],
+          "dogru_secenek": "Tasarım Devleti nezdinde",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Sertifikalandırılmış bir havaalanı işleticisinin SMS'si kim tarafından kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "Havaalanının sertifikasyonundan sorumlu olan Devlet",
+            "İşleticinin Devleti",
+            "Uluslararası sivil havacılık otoritesi",
+            "Emniyet Yönetimi El Kitabı"
+          ],
+          "dogru_secenek": "Havaalanının sertifikasyonundan sorumlu olan Devlet",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Genel havacılığa yönelik bir SMS'nin uygulanmasına ilişkin kılavuz materyal hangi belgede yer alır?",
+          "secenekler": [
+            "Emniyet Yönetimi El Kitabı",
+            "Uluslararası Havacılık Kuralları",
+            "Genel Havacılık Kılavuzu",
+            "Sivil Havacılık Yasası"
+          ],
+          "dogru_secenek": "Emniyet Yönetimi El Kitabı",
+          "puan": 10,
+          "gold": 5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Uluslararası genel havacılık işleticisinin SMS'si operasyonun ne ile orantılı olacaktır?",
+          "secenekler": [
+            "Operasyonun süresi",
+            "Operasyonun konumu",
+            "Operasyonun büyüklüğü ve karmaşıklığı",
+            "Operasyonun maliyeti"
+          ],
+          "dogru_secenek": "Operasyonun büyüklüğü ve karmaşıklığı",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 2,
+          "soru": "ICAO'nun kuruluş amacı nedir?",
+          "secenekler": [
+            "Ticari havacılığı desteklemek için",
+            "Sivil havacılık alanında prensipleri ve kuralları belirlemek için",
+            "Askeri havacılık operasyonlarını düzenlemek için",
+            "Havacılık endüstrisini denetlemek için"
+          ],
+          "dogru_secenek": "Sivil havacılık alanında prensipleri ve kuralları belirlemek için",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 3,
+          "soru": "ICAO'nun kaç üye ülkesi vardır?",
+          "secenekler": ["100", "150", "191", "250"],
+          "dogru_secenek": "191",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet yönetimine yönelik kurallar hangi tarihten beri farklı ekler içerisinde tanımlanmaktadır?",
+          "secenekler": ["1990", "2001", "2010", "2015"],
+          "dogru_secenek": "2001",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 5,
+          "soru": "Hangi tarihte ANNEX 19'un tüm ICAO üyesi ülkelerde uygulanmasına karar verilmiştir?",
+          "secenekler": ["2005", "2013", "2018", "2020"],
+          "dogru_secenek": "2013",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 6,
+          "soru": "SHGM tarafından yayınlanan hangi yönetmelikle, Tip Tasarım/Üretim Kuruluşlarında SMS Uygulanması zorunlu hale getirilmiştir?",
+          "secenekler": ["2010", "2012", "2015", "2017"],
+          "dogru_secenek": "2015",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet Yönetim Sistemi'nin temel amacı nedir?",
+          "secenekler": [
+            "Yönetim karar verme aracı olmak",
+            "Personel eğitimi sağlamak",
+            "Pazarlama stratejilerini geliştirmek",
+            "Finansal raporları yönetmek"
+          ],
+          "dogru_secenek": "Yönetim karar verme aracı olmak",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet Politikası'nın hangi tarafından onaylanmalıdır?",
+          "secenekler": [
+            "En üst düzey yönetici",
+            "İnsan Kaynakları Departmanı",
+            "Teknik ekip lideri",
+            "Müşteri temsilcisi"
+          ],
+          "dogru_secenek": "En üst düzey yönetici",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet Yönetim Sistemi, hangi riskleri değerlendirir?",
+          "secenekler": [
+            "Pazarlama riskleri",
+            "Finansal riskler",
+            "Emniyet riskleri",
+            "İnsan kaynakları riskleri"
+          ],
+          "dogru_secenek": "Emniyet riskleri",
+          "puan": 10,
+          "gold": 5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet Politikası, neyin ayrılacağını açıkça ifade etmelidir?",
+          "secenekler": [
+            "Yatırım fırsatları",
+            "Şirket tatil günleri",
+            "Gerekli kaynaklar",
+            "Ofis mobilyaları"
+          ],
+          "dogru_secenek": "Gerekli kaynaklar",
+          "puan": 10,
+          "gold": 5
+        }
+      ]
+    },
+    "orta_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "Hava aracı operasyonları ile ilgili emniyet risklerine maruz kalan onaylı bir eğitim kuruluşunun SMS'si kim tarafından kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "Kuruluşun iş ortakları",
+            "İşletmeci",
+            "Kuruluşun müşterileri",
+            "Devlet(ler)"
+          ],
+          "dogru_secenek": "Devlet(ler)",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Uluslararası ticari hava taşımacılığı ile iştigal eden uçak veya helikopter işleticilerine hizmet sağlayan onaylı bakım kuruluşlarının SMS'leri kim tarafından kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "İşletmeci",
+            "Kuruluşun müşterileri",
+            "Devlet(ler)",
+            "Uluslararası sivil havacılık otoritesi"
+          ],
+          "dogru_secenek": "Devlet(ler)",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Bir ATS sağlayıcısının SMS'si hangi hizmetleri içermektedir?",
+          "secenekler": [
+            "AIS, CNS, MET ve/veya SAR hizmetleri",
+            "Yolcu hizmetleri",
+            "Bagaj hizmetleri",
+            "Yiyecek ve içecek hizmetleri"
+          ],
+          "dogru_secenek": "AIS, CNS, MET ve/veya SAR hizmetleri",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "Hava aracının imalatından sorumlu olan bir kuruluşun SMS'si nerede kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "İşleticinin Devleti nezdinde",
+            "Tasarım Devleti nezdinde",
+            "İmalat Devleti nezdinde",
+            "Havaalanının sertifikasyonundan sorumlu olan Devlet nezdinde"
+          ],
+          "dogru_secenek": "İmalat Devleti nezdinde",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Bir hizmet sağlayıcının SMS'si neye uygun olarak tesis edilmelidir?",
+          "secenekler": [
+            "Emniyet Yönetimi El Kitabı'na",
+            "Uluslararası Havacılık Kuralları'na",
+            "Emniyet Yönetimi El Kitabı'ndaki çerçeve unsurlara",
+            "Ulusal sivil havacılık otoritesinin talimatlarına"
+          ],
+          "dogru_secenek": "Emniyet Yönetimi El Kitabı'ndaki çerçeve unsurlara",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Hangi durumda bir ATS sağlayıcısının yetkisi kapsamına giren hizmetler ATS sağlayıcısının SMS'si kapsamına dahil edilir?",
+          "secenekler": [
+            "Hizmetler tamamen bir ATS sağlayıcısı tarafından sağlandığında",
+            "Hizmetler bir kısmı bir ATS sağlayıcısı tarafından sağlandığında",
+            "Hizmetler ATS sağlayıcısı tarafından değil başka bir kuruluş tarafından sağlandığında",
+            "Hizmetler ATS sağlayıcısının kontrolünde değilse"
+          ],
+          "dogru_secenek": "Hizmetler tamamen bir ATS sağlayıcısı tarafından sağlandığında",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Hangi belgeye uygun olarak genel havacılığa yönelik bir SMS uygulanır?",
+          "secenekler": [
+            "Sivil Havacılık Yasası",
+            "Uluslararası Havacılık Kuralları",
+            "Emniyet Yönetimi El Kitabı",
+            "Genel Havacılık Kılavuzu"
+          ],
+          "dogru_secenek": "Emniyet Yönetimi El Kitabı",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Bir havaalanı işleticisinin SMS'si kabul edilebilir hale getirilirken hangi kuruluş yetkilidir?",
+          "secenekler": [
+            "İşleticinin Devleti",
+            "Uluslararası sivil havacılık otoritesi",
+            "Havaalanının sertifikasyonundan sorumlu olan Devlet",
+            "Sivil Havacılık Yasası"
+          ],
+          "dogru_secenek": "Havaalanının sertifikasyonundan sorumlu olan Devlet",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Bir hava aracının tip tasarımından sorumlu olan bir kuruluşun SMS'si hangi durumda kabul edilebilir hale getirilir?",
+          "secenekler": [
+            "Tasarımın değiştirilmesi gerektiğinde",
+            "İşletmeci tarafından talep edildiğinde",
+            "Tasarım Devleti nezdinde",
+            "Emniyet Yönetimi El Kitabı'nda belirtildiği gibi"
+          ],
+          "dogru_secenek": "Tasarım Devleti nezdinde",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "SMS'nin asgari olarak hangi unsurları içermesi tavsiye edilir?",
+          "secenekler": [
+            "Emniyet tehlikelerinin tanımlanması, iyileştirici tedbirlerin geliştirilmesi ve emniyet yönetimi faaliyetlerinin takibi",
+            "Maliyet tahminleri, işgücü yönetimi, ve tedarik zinciri",
+            "Pazar araştırması, reklam stratejileri, ve müşteri ilişkileri yönetimi",
+            "Yönetim politikalarının belirlenmesi, iş planlaması ve iş süreçleri iyileştirme"
+          ],
+          "dogru_secenek": "Emniyet tehlikelerinin tanımlanması, iyileştirici tedbirlerin geliştirilmesi ve emniyet yönetimi faaliyetlerinin takibi",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "ICAO'nun hangi yılında kurulduğu bilinmektedir?",
+          "secenekler": ["1945", "1947", "1950", "1955"],
+          "dogru_secenek": "1947",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "ICAO'nun standartları ve tavsiyeleri içeren kaç adet ek (Annex) bulunmaktadır?",
+          "secenekler": ["10", "15", "19", "20"],
+          "dogru_secenek": "19",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet Yönetimi için ayrı bir ek olan Annex19'un oluşturulma süreci hangi etkinlik sonrasında başlamıştır?",
+          "secenekler": [
+            "Havacılık Zirvesi",
+            "Emniyet Konferansı",
+            "Havaalanı Güvenlik Toplantısı",
+            "Pilot Derneği Kongresi"
+          ],
+          "dogru_secenek": "Emniyet Konferansı",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "Sivil Havacılıkta Emniyet Yönetim Sistemi Yönetmeliği'nin kısaltması nedir?",
+          "secenekler": ["SHG-SMS", "SHM-SMS", "SHY-SMS", "SHL-SMS"],
+          "dogru_secenek": "SHY-SMS",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "SHGM tarafından hangi tarihte yayınlanan yönetmelikle kapsam genişletilmiş ve Tip Tasarım/Üretim Kuruluşlarında SMS Uygulanması zorunlu hale getirilmiştir?",
+          "secenekler": ["2010", "2012", "2015", "2017"],
+          "dogru_secenek": "2015",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet Politikası'nın işletme içinde paylaşılmasının amacı nedir?",
+          "secenekler": [
+            "Personel performansını değerlendirmek",
+            "Şeffaflığı teşvik etmek ve toplam emniyet kültürünü güçlendirmek",
+            "Rakip firmaları takip etmek",
+            "Bölgesel pazar araştırmaları yapmak"
+          ],
+          "dogru_secenek": "Şeffaflığı teşvik etmek ve toplam emniyet kültürünü güçlendirmek",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Emniyet Yönetim Sistemi'nin riskleri değerlendirme sürecinde kullanılan bir araç nedir?",
+          "secenekler": [
+            "PEST analizi",
+            "SWOT analizi",
+            "Emniyet matrisi",
+            "Finansal tablolar"
+          ],
+          "dogru_secenek": "Emniyet matrisi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet Politikası'nın imzalanması gereken kişi kimdir?",
+          "secenekler": [
+            "Proje yöneticisi",
+            "En yetkili yasal danışman",
+            "Kurumun sorumlu yöneticisi",
+            "Dış ilişkiler direktörü"
+          ],
+          "dogru_secenek": "Kurumun sorumlu yöneticisi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet Yönetim Sistemi'nin önemli bir bileşeni nedir?",
+          "secenekler": [
+            "Pazarlama stratejisi",
+            "Risk değerlendirme prosedürleri",
+            "Teknoloji güncellemeleri",
+            "İnsan kaynakları politikaları"
+          ],
+          "dogru_secenek": "Risk değerlendirme prosedürleri",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet Politikası'nın kurumun emniyetine adanmışlığını nasıl yansıtması gerekir?",
+          "secenekler": [
+            "Finansal hedeflerin belirlenmesiyle",
+            "Müşteri memnuniyeti odaklı hizmetler sunarak",
+            "Gerektiğinde personel işten çıkarmalarla",
+            "Emniyeti sağlamak için kaynak ayrılacağını açıkça ifade ederek"
+          ],
+          "dogru_secenek": "Emniyeti sağlamak için kaynak ayrılacağını açıkça ifade ederek",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet politikası belirlenirken nelere dikkat edilmelidir?",
+          "secenekler": [
+            "Yalnızca yerel düzenlemelere uyum sağlanmalıdır",
+            "Emniyet ile ilgili organizasyon taahhüdü, kaynakların temini ve emniyet raporlama prosedürleri göz önünde bulundurulmalıdır",
+            "Rekabet avantajı sağlayacak stratejiler belirlenmelidir",
+            "Emniyet politikası sadece üst yönetim tarafından belirlenmelidir",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet ile ilgili organizasyon taahhüdü, kaynakların temini ve emniyet raporlama prosedürleri göz önünde bulundurulmalıdır",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet risk yönetimi süreci hangi aşamalardan oluşur?",
+          "secenekler": [
+            "Risklerin yok edilmesi ve zararların onarılması",
+            "Tehlikelerin tanımlanması, risk değerlendirmesi ve azaltılması",
+            "Acil durum planlarının oluşturulması ve uygulanması",
+            "Yalnızca tehlike önlemlerinin alınması",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Tehlikelerin tanımlanması, risk değerlendirmesi ve azaltılması",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet güvencesi sürecinde neler yapılır?",
+          "secenekler": [
+            "Sadece kazaların raporlanması",
+            "Emniyet performansının izlenmesi, değişiklik yönetimi ve sürekli geliştirme",
+            "Yalnızca personel eğitimi",
+            "Mali kaynakların yönetimi",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet performansının izlenmesi, değişiklik yönetimi ve sürekli geliştirme",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyetin teşvik edilmesi sürecinde hangi faktörler önemlidir?",
+          "secenekler": [
+            "Sadece üst yönetimin desteği",
+            "Eğitim ve iletişim faaliyetleri",
+            "Sadece cezalandırıcı önlemler alınması",
+            "Teknolojik yeniliklere odaklanma",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Eğitim ve iletişim faaliyetleri",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Hangisi emniyet politikasının gerekliliklerinden biri değildir?",
+          "secenekler": [
+            "Emniyet politikasının kuruluş genelinde görünür bir şekilde duyurulması",
+            "Emniyet risklerinin tolere edilebilirliği ile ilgili karar verme yetkisine sahip olan yönetim kademelerinin tanımlanması",
+            "Emniyet politikasının yalnızca üst yönetim tarafından belirlenmesi",
+            "Emniyet politikasının, hizmet sağlayıcının sorumlu yöneticisi tarafından imzalanması",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Emniyet politikasının yalnızca üst yönetim tarafından belirlenmesi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Bir havacılık işletmesinde Emniyet Yönetim Sistemi uygulamalarının etkinliğini artırmak için hangi adımlar atılmalıdır?",
+          "secenekler": [
+            "Düzeltici faaliyetlerin izlenmemesi",
+            "Emniyet politikasının gözden geçirilmemesi",
+            "Çalışanların emniyet raporlamasının teşvik edilmemesi",
+            "Emniyet performansının sürekli olarak izlenmesi ve politika geliştirilmesi",
+            "Personelin eğitim düzeyinin düşürülmesi"
+          ],
+          "dogru_secenek": "Emniyet performansının sürekli olarak izlenmesi ve politika geliştirilmesi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Bir havacılık işletmesinde Sorumlu Müdürün sahip olduğu yetkilerden biri nedir?",
+          "secenekler": [
+            "Personelin maaşlarını belirlemek",
+            "Emniyet politikasını ihmal etmek",
+            "Emniyet amaçlarını ve hedeflerini belirlemek",
+            "Teknik arızaları önlemek",
+            "Uçuşlarda hangi yemeklerin servis edileceğini belirlemek"
+          ],
+          "dogru_secenek": "Emniyet amaçlarını ve hedeflerini belirlemek",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "SPI'lar, havacılık organizasyonlarında hangi amaçla kullanılır?",
+          "secenekler": [
+            "Emniyet risklerinin kontrolünü sağlamak",
+            "Ekipman bakımını ihmal etmek",
+            "Personel eğitimini azaltmak",
+            "Operasyonel verimliliği düşürmek",
+            "Emniyet hedeflerini göz ardı etmek"
+          ],
+          "dogru_secenek": "Emniyet risklerinin kontrolünü sağlamak",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet Politikası, neyin ayrılacağını açıkça ifade etmelidir?",
+          "secenekler": [
+            "Yatırım fırsatları",
+            "Şirket tatil günleri",
+            "Gerekli kaynaklar",
+            "Ofis mobilyaları",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Ofis mobilyaları",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "Emniyet Yönetim Sistemi, hangi eylemleri tanımlar?",
+          "secenekler": [
+            "Pazar araştırmaları",
+            "İşe alım süreçleri",
+            "Emniyet risklerini azaltmak için gerekenleri",
+            "Reklam kampanyaları",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Reklam kampanyaları",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet riski değerlendirme matrisi neyi ifade eder?",
+          "secenekler": [
+            "Olasılık ve şiddet değerlendirmesi.",
+            "Tehlikelerin sonuçlarının önemini belirleme.",
+            "Risk azaltma stratejilerini belirleme.",
+            "Maliyet analizlerini belirleme.",
+            "Emniyet risklerini artırma."
+          ],
+          "dogru_secenek": "Olasılık ve şiddet değerlendirmesi.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 2,
+          "soru": "Emniyet riski olasılık tablosunda 'Nadiren' kategorisi neyi ifade eder?",
+          "secenekler": [
+            "Tehlikelerin sık görülmesini.",
+            "Olayların nadiren gerçekleştiğini.",
+            "Emniyet riskinin sıfır olduğunu.",
+            "Emniyet riskinin çok yüksek olduğunu.",
+            "Emniyet riskinin orta düzeyde olduğunu."
+          ],
+          "dogru_secenek": "Olayların nadiren gerçekleştiğini.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 3,
+          "soru": "Emniyet riski yönetimi ile risk azaltma arasındaki ilişki nedir?",
+          "secenekler": [
+            "Aynı şeydir.",
+            "Farklı kavramlardır.",
+            "Karşılıklıdır, birbirini tamamlarlar.",
+            "Birbirine zıttır.",
+            "Bağımsızdır, birbiriyle ilişkili değildir."
+          ],
+          "dogru_secenek": "Karşılıklıdır, birbirini tamamlarlar.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 4,
+          "soru": "Emniyet riski değerlendirme matrisi hangi aşamada oluşturulur?",
+          "secenekler": [
+            "Risk azaltma stratejilerinden önce.",
+            "Emniyet riski tahammül edilebilirlik matrisinden sonra.",
+            "Tehlikelerin sonuçlarının önemi belirlendikten sonra.",
+            "Fayda/maliyet analizlerinden sonra.",
+            "Risklerin artışından sonra."
+          ],
+          "dogru_secenek": "Risk azaltma stratejilerinden önce.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 5,
+          "soru": "Risk kontrolü ve risk azaltma arasındaki fark nedir?",
+          "secenekler": [
+            "Aynı şeydir.",
+            "Farklı kavramlardır.",
+            "Karşılıklıdır, birbirini tamamlarlar.",
+            "Birbirine zıttır.",
+            "Bağımsızdır, birbiriyle ilişkili değildir."
+          ],
+          "dogru_secenek": "Farklı kavramlardır.",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 6,
+          "soru": "Havacılık emniyetinde 'risk toleransı' neyi ifade eder?",
+          "secenekler": [
+            "Risklerin kabul edilebilir seviyesi",
+            "Yalnızca havaalanı yönetimini",
+            "Yalnızca hava trafik kontrolünü",
+            "Yalnızca teknik ekipmanları",
+            "Pilotların kabul ettiği risk"
+          ],
+          "dogru_secenek": "Risklerin kabul edilebilir seviyesi",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 7,
+          "soru": "Havacılık emniyetinde 'insan hataları' nasıl sınıflandırılır?",
+          "secenekler": [
+            "Yalnızca pilot hataları",
+            "Yalnızca kabin ekibi hataları",
+            "Teknolojik hatalar",
+            "Karışık hatalar, karar verme hataları, operasyonel hatalar ve diğerleri",
+            "Yalnızca teknik ekipman hataları"
+          ],
+          "dogru_secenek": "Karışık hatalar, karar verme hataları, operasyonel hatalar ve diğerleri",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 8,
+          "soru": "Havacılıkta 'CFIT' (Controlled Flight Into Terrain) ne anlama gelir?",
+          "secenekler": [
+            "Uçağın kontrolsüz inişi",
+            "Uçağın kontrollü inişi",
+            "Kontrollü uçuş esnasında toprağa çarpmak",
+            "Yalnızca pilot hatalarını",
+            "Yalnızca kabin ekibi hatalarını"
+          ],
+          "dogru_secenek": "Kontrollü uçuş esnasında toprağa çarpmak",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 9,
+          "soru": "Havacılık emniyetinde 'güvenlik kültürü' neyi ifade eder?",
+          "secenekler": [
+            "Sadece pilotların güvenliği",
+            "Yalnızca kabin ekibinin güvenliği",
+            "Bir havayolu şirketinin güvenlikle ilgili değerlerinin, inançlarının, normlarının ve davranışlarının toplamı",
+            "Yalnızca teknik ekipman güvenliği",
+            "Yalnızca havaalanı güvenliği"
+          ],
+          "dogru_secenek": "Bir havayolu şirketinin güvenlikle ilgili değerlerinin, inançlarının, normlarının ve davranışlarının toplamı",
+          "puan": 10,
+          "gold": 7.5
+        },
+        {
+          "id": 10,
+          "soru": "Havacılık emniyetinde 'koruyucu tedbirler' neyi ifade eder?",
+          "secenekler": [
+            "Riskleri artıran faktörler",
+            "Yalnızca teknik ekipmanı",
+            "Riskleri azaltıcı veya önleyici önlemler",
+            "Pilot eğitimlerini",
+            "Yalnızca havaalanı prosedürlerini"
+          ],
+          "dogru_secenek": "Riskleri azaltıcı veya önleyici önlemler",
+          "puan": 10,
+          "gold": 7.5
+        }
+      ]
+    },
+    "zor_sinav": {
+      "1.Test": [
+        {
+          "id": 1,
+          "soru": "\"Emniyet performansı göstergesi\" hangi amaçla kullanılır?",
+          "secenekler": [
+            "Emniyet performansını artırmak için",
+            "Teknik hataları tespit etmek için",
+            "İşletme maliyetlerini azaltmak için",
+            "Havacılık faaliyetlerini hızlandırmak için",
+            "Uçuş eğitimini iyileştirmek için"
+          ],
+          "dogru_secenek": "Emniyet performansını artırmak için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Bir \"helikopter\" neye dayanarak havada kalır?",
+          "secenekler": [
+            "Sabit kanatlara",
+            "Havanın reaksiyonuna",
+            "Rüzgarın yönüne",
+            "Güneş ışığına",
+            "Yerçekimine"
+          ],
+          "dogru_secenek": "Havanın reaksiyonuna",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Hangisi \"Emniyet yönetimi sistemi (SMS)\"nin unsurlarından biri değildir?",
+          "secenekler": [
+            "Hesap verme sorumlulukları",
+            "Politikalar ve prosedürler",
+            "Havacılık ekipmanları",
+            "Organizasyonel yapılar",
+            "Sistematiik bir yaklaşım"
+          ],
+          "dogru_secenek": "Havacılık ekipmanları",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "\"Emniyet performansı hedefi\" nedir?",
+          "secenekler": [
+            "Belirli bir süre içinde emniyet performansını izlemek için belirlenen parametre",
+            "Emniyet performansını iyileştirmek için belirlenen amaç",
+            "Havacılık faaliyetlerinin hızını artırmak için belirlenen hedef",
+            "Havacılık ekipmanlarının verimliliğini artırmak için belirlenen hedef",
+            "Emniyet risklerini artırmak için belirlenen hedef"
+          ],
+          "dogru_secenek": "Emniyet performansını iyileştirmek için belirlenen amaç",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Bir \"uçak\" hangi prensibe dayanarak havada kalır?",
+          "secenekler": [
+            "Sabit kanatlara",
+            "Jet akımına",
+            "Rüzgarın yönüne",
+            "Güneş ışığına",
+            "Yerçekimine"
+          ],
+          "dogru_secenek": "Sabit kanatlara",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Hangisi \"İşleticinin Ülkesi\" teriminin tanımına uymaz?",
+          "secenekler": [
+            "İşleticinin asli iş yerinin bulunduğu ülke",
+            "İşleticinin daimi ikamet adresinin bulunduğu ülke",
+            "İşleticinin faaliyet gösterdiği ülke",
+            "İşleticinin vergi ödediği ülke",
+            "İşleticinin ticaret yaptığı ülke"
+          ],
+          "dogru_secenek": "İşleticinin daimi ikamet adresinin bulunduğu ülke",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Bir kaza durumu hangi koşullarda gerçekleşir?",
+          "secenekler": [
+            "Hava aracının kaybolması veya tamamen erişilemez hale gelmesi durumunda",
+            "Hava aracının yapısal olarak arızalanması durumunda",
+            "Hava aracının yüzeyinde küçük çentiklerin oluşması durumunda",
+            "Hava aracının tam kapasite ile uçması durumunda",
+            "Hava aracının güvenli iniş yapması durumunda"
+          ],
+          "dogru_secenek": "Hava aracının yapısal olarak arızalanması durumunda",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "\"Emniyet riski\" nedir?",
+          "secenekler": [
+            "Bir tehlikenin vuku bulması ihtimali ve sonuçlarının ciddiyetinin önceden belirlenmesi",
+            "Havacılık ekipmanlarının verimliliğini artırmak için alınan önlemler",
+            "Hava aracının yapısal mukavemetini test etmek için kullanılan bir yöntem",
+            "Emniyet performansını izlemek için kullanılan bir veri tabanı",
+            "Emniyet performansını iyileştirmek için kullanılan bir strateji"
+          ],
+          "dogru_secenek": "Bir tehlikenin vuku bulması ihtimali ve sonuçlarının ciddiyetinin önceden belirlenmesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Hangisi \"İmalat Durumu\" teriminin tanımına uymaz?",
+          "secenekler": [
+            "Hava aracının nihai montajından sorumlu kuruluş üzerinde yargı yetkisine sahip devlet",
+            "Hava aracının imalatında kullanılan malzemeleri belirleyen devlet",
+            "Hava aracının üretim sürecini denetleyen devlet",
+            "İmalatın yasal düzenlemelerini belirleyen devlet",
+            "İmalatın güvenliğini sağlamakla sorumlu devlet"
+          ],
+          "dogru_secenek": "Hava aracının nihai montajından sorumlu kuruluş üzerinde yargı yetkisine sahip devlet",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Hangisi \"Devlet emniyet programı (SSP)\"nın özelliklerinden biri değildir?",
+          "secenekler": [
+            "Emniyeti geliştirmek için bütüncül düzenlemeler ve faaliyetler içerir",
+            "Havacılık emniyeti gerekliliklerine uyum sağlamak için kullanılır",
+            "Emniyet performansını takip etmek için kullanılan bir sistemdir",
+            "Havacılık endüstrisinde emniyeti artırmak için kullanılır",
+            "Emniyet risklerini azaltmak için kullanılır"
+          ],
+          "dogru_secenek": "Emniyet performansını takip etmek için kullanılan bir sistemdir",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "2.Test": [
+        {
+          "id": 1,
+          "soru": "Hangisi \"Sektörel uygulama esasları\"nın tanımına uymaz?",
+          "secenekler": [
+            "Havacılık endüstrisinin belirli bir sektörüne ilişkin olarak bir sektörü kuruluşu tarafından geliştirilen kılavuz materyal",
+            "Uluslararası Sivil Havacılık Teşkilatı'nın Standartları ve Tavsiye Edilen Uygulamalarının yanı sıra diğer uygun havacılık emniyeti gerekliliklerine uyum sağlar",
+            "Bazı devletler, düzenlemelerin geliştirilmesinde bunlara atıf yapar ve bunları nasıl elde edileceğini belirtir",
+            "Havacılık emniyetinin iyileştirilmesi için kullanılan bir sistem",
+            "Belirli bir sektördeki en iyi uygulamalara uyum sağlar"
+          ],
+          "dogru_secenek": "Havacılık emniyetinin iyileştirilmesi için kullanılan bir sistem",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Bir \"helikopter\" neye dayanarak havada kalır?",
+          "secenekler": [
+            "Sabit kanatlara",
+            "Havanın reaksiyonuna",
+            "Rüzgarın yönüne",
+            "Güneş ışığına",
+            "Yerçekimine"
+          ],
+          "dogru_secenek": "Havanın reaksiyonuna",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Hangisi \"İşleticinin Ülkesi\" teriminin tanımına uymaz?",
+          "secenekler": [
+            "İşleticinin asli iş yerinin bulunduğu ülke",
+            "İşleticinin daimi ikamet adresinin bulunduğu ülke",
+            "İşleticinin faaliyet gösterdiği ülke",
+            "İşleticinin vergi ödediği ülke",
+            "İşleticinin ticaret yaptığı ülke"
+          ],
+          "dogru_secenek": "İşleticinin ticaret yaptığı ülke",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Bir \"uçak\" hangi prensibe dayanarak havada kalır?",
+          "secenekler": [
+            "Sabit kanatlara",
+            "Jet akımına",
+            "Rüzgarın yönüne",
+            "Güneş ışığına",
+            "Yerçekimine"
+          ],
+          "dogru_secenek": "Sabit kanatlara",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Hangi durumda emniyet bilgileri erişime açık olmalıdır ve neden?",
+          "secenekler": [
+            "Her durumda, çünkü bilgi paylaşımı önemlidir.",
+            "Sadece zorunlu raporlama sistemleri için, çünkü havacılık emniyetini etkileyebilecek olayları içerir.",
+            "Gönüllü raporlama sistemleri için, çünkü gönüllülük esasına dayalı raporlama teşvik edilmelidir.",
+            "Hiçbir durumda, çünkü emniyet bilgileri gizli tutulmalıdır."
+          ],
+          "dogru_secenek": "Hiçbir durumda, çünkü emniyet bilgileri gizli tutulmalıdır.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Hangi durumda emniyet verileri erişime açılmamalı veya kullanılmamalıdır ve neden?",
+          "secenekler": [
+            "Her durumda, çünkü emniyet verileri hassas bilgilerdir.",
+            "Sadece kaza soruşturma otoriteleri için, çünkü kaza soruşturmaları için kullanılmalıdır.",
+            "Her durumda, çünkü emniyet verileri sadece zorunlu raporlama sistemleri için toplanmalıdır.",
+            "Hiçbir durumda, çünkü emniyet verileri herkesin erişimine açık olmalıdır."
+          ],
+          "dogru_secenek": "Sadece kaza soruşturma otoriteleri için, çünkü kaza soruşturmaları için kullanılmalıdır.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Hangi önlem havacılık şirketleri için daha önemlidir: emniyet verilerini paylaşımı mı kısıtlamak yoksa emniyet bilgilerinin analizini kolaylaştırmak?",
+          "secenekler": [
+            "Emniyet bilgilerinin analizini kolaylaştırmak, çünkü bu, havacılık emniyetini artırabilir.",
+            "Emniyet verilerini paylaşımı kısıtlamak, çünkü bilgi güvenliği her şeyden önemlidir.",
+            "Her ikisi de aynı derecede önemlidir ve dengelemek gerekir.",
+            "Her ikisi de önemsizdir, çünkü şirketler kendi emniyet politikalarını belirleyebilir."
+          ],
+          "dogru_secenek": "Emniyet bilgilerinin analizini kolaylaştırmak, çünkü bu, havacılık emniyetini artırabilir.",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Emniyet verilerinin korunması için hangi tür bir yasal rehber kullanılabilir?",
+          "secenekler": ["İlave A", "İlave B", "İlave C", "İlave D"],
+          "dogru_secenek": "İlave B",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Emniyet verilerinin analizi için standartlaştırılmış formatlar kullanmanın avantajı nedir?",
+          "secenekler": [
+            "Veri gizliliğini artırır",
+            "Veri değişimini kolaylaştırır",
+            "Veri saklamayı zorlaştırır",
+            "Veri analizini karmaşık hale getirir"
+          ],
+          "dogru_secenek": "Veri değişimini kolaylaştırır",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Hangi tür bir olay raporlama sistemi, cezalandırmaya dayanmamalıdır?",
+          "secenekler": [
+            "Sadece cezalandırma amaçlı olan olay raporlama sistemi",
+            "Sadece yöneticilerin erişim sağladığı olay raporlama sistemi",
+            "Gönüllülük esasına dayalı olay raporlama sistemi",
+            "Zorunlu olay raporlama sistemi"
+          ],
+          "dogru_secenek": "Gönüllülük esasına dayalı olay raporlama sistemi",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "3.Test": [
+        {
+          "id": 1,
+          "soru": "Emniyet bilgilerinin değişimi için hangi tür bir tavsiye verilmiştir?",
+          "secenekler": [
+            "Bilgi gizleme tavsiyesi",
+            "Bilgi saklama tavsiyesi",
+            "Bilgi ifşa etme tavsiyesi",
+            "Bilgi paylaşımı tavsiyesi"
+          ],
+          "dogru_secenek": "Bilgi paylaşımı tavsiyesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Hangi tür bir olay raporlama sistemi, cezalandırmaya dayanmamalıdır?",
+          "secenekler": [
+            "Sadece cezalandırma amaçlı olan olay raporlama sistemi",
+            "Sadece yöneticilerin erişim sağladığı olay raporlama sistemi",
+            "Gönüllülük esasına dayalı olay raporlama sistemi",
+            "Zorunlu olay raporlama sistemi"
+          ],
+          "dogru_secenek": "Gönüllülük esasına dayalı olay raporlama sistemi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Hangi tür bir tavsiye, emniyet bilgilerinin değişimini kolaylaştırmayı amaçlar?",
+          "secenekler": [
+            "Bilgi gizleme tavsiyesi",
+            "Bilgi saklama tavsiyesi",
+            "Bilgi paylaşımı tavsiyesi",
+            "Bilgi ifşa etme tavsiyesi"
+          ],
+          "dogru_secenek": "Bilgi paylaşımı tavsiyesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Hangi tür bir olay raporlama sistemi, cezalandırmaya dayanmamalıdır?",
+          "secenekler": [
+            "Sadece cezalandırma amaçlı olan olay raporlama sistemi",
+            "Sadece yöneticilerin erişim sağladığı olay raporlama sistemi",
+            "Gönüllülük esasına dayalı olay raporlama sistemi",
+            "Zorunlu olay raporlama sistemi"
+          ],
+          "dogru_secenek": "Gönüllülük esasına dayalı olay raporlama sistemi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Emniyet verilerinin analizi için standartlaştırılmış formatlar kullanmanın avantajı nedir?",
+          "secenekler": [
+            "Veri gizliliğini artırır",
+            "Veri değişimini kolaylaştırır",
+            "Veri saklamayı zorlaştırır",
+            "Veri analizini karmaşık hale getirir"
+          ],
+          "dogru_secenek": "Veri değişimini kolaylaştırır",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Emniyet verilerinin korunması için hangi tür bir yasal rehber kullanılabilir?",
+          "secenekler": ["İlave A", "İlave B", "İlave C", "İlave D"],
+          "dogru_secenek": "İlave B",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Hangi tür bir olay raporlama sistemi, cezalandırmaya dayanmamalıdır?",
+          "secenekler": [
+            "Sadece cezalandırma amaçlı olan olay raporlama sistemi",
+            "Sadece yöneticilerin erişim sağladığı olay raporlama sistemi",
+            "Gönüllülük esasına dayalı olay raporlama sistemi",
+            "Zorunlu olay raporlama sistemi"
+          ],
+          "dogru_secenek": "Gönüllülük esasına dayalı olay raporlama sistemi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Uçaklarda kullanılan karbon fiber malzeme hangi avantajı sağlar?",
+          "secenekler": [
+            "Daha ağır bir yapı",
+            "Daha düşük maliyet",
+            "Daha yüksek dayanıklılık",
+            "Daha kısa ömür",
+            "Daha yüksek bakım gereksinimi"
+          ],
+          "dogru_secenek": "Daha yüksek dayanıklılık",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "Uçak üretiminde hangi sertifikasyon standartları önemlidir?",
+          "secenekler": [
+            "ISO 9001",
+            "ISO 14001",
+            "OHSAS 18001",
+            "AS9100",
+            "ISO 22000"
+          ],
+          "dogru_secenek": "AS9100",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Uçak tasarımında hangi unsurlar yolcu konforunu artırabilir?",
+          "secenekler": [
+            "Daha az ayak alanı",
+            "Daha fazla gürültü",
+            "Daha sık koltuk düzeni",
+            "Daha az pencere alanı",
+            "Daha geniş koltuklar"
+          ],
+          "dogru_secenek": "Daha geniş koltuklar",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ],
+      "4.Test": [
+        {
+          "id": 1,
+          "soru": "Uçak üretiminde hangi faktör havacılık güvenliğini doğrudan etkiler?",
+          "secenekler": [
+            "Pazar talebi",
+            "Tasarım yenilikleri",
+            "İşçi sendikaları",
+            "Malzeme kalitesi",
+            "Reklam stratejileri"
+          ],
+          "dogru_secenek": "Malzeme kalitesi",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 2,
+          "soru": "Uçak üretimi sırasında hangi aşama en fazla mühendislik çalışması gerektirir?",
+          "secenekler": [
+            "Boya işlemi",
+            "Kokpit tasarımı",
+            "Motor montajı",
+            "Kanat formu",
+            "Gövde imalatı"
+          ],
+          "dogru_secenek": "Kanat formu",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 3,
+          "soru": "Sivil havacılıkta 'ICAO' hangi organizasyonu temsil eder?",
+          "secenekler": [
+            "International Civil Aviation Organization",
+            "Internal Cabin Attendants Organization",
+            "International Cargo Airlines Organization",
+            "Internal Cockpit Access Organization",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "International Civil Aviation Organization",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 4,
+          "soru": "Havayolu şirketleri neden 'hub' havalimanları kullanır?",
+          "secenekler": [
+            "Uçuş maliyetlerini azaltmak için",
+            "Yolcu trafiğini yönlendirmek ve bağlantılar sağlamak için",
+            "Yolcu güvenliğini artırmak için",
+            "Yalnızca marka bilinirliği için",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Yolcu trafiğini yönlendirmek ve bağlantılar sağlamak için",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 5,
+          "soru": "Havacılık endüstrisinde 'FBO' terimi neyi ifade eder?",
+          "secenekler": [
+            "Free Business Operations",
+            "Fixed Base Operator",
+            "Flight Booking Office",
+            "Flying Business Operations",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Fixed Base Operator",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 6,
+          "soru": "Havacılıkta 'ETOPS' kısaltması neyi ifade eder?",
+          "secenekler": [
+            "Extra Takeoff Operations",
+            "Extended Time Of Plane Service",
+            "Enhanced Terminal Operations",
+            "Extended Range Twin Operations Performance Standards",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Extended Range Twin Operations Performance Standards",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 7,
+          "soru": "Sivil havacılıkta 'ATPL' neyi ifade eder?",
+          "secenekler": [
+            "Advanced Technical Pilot License",
+            "Air Traffic Pilot License",
+            "Airline Transport Pilot License",
+            "Aircraft Technical Personnel License",
+            "Hiçbiri"
+          ],
+          "dogru_secenek": "Airline Transport Pilot License",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 8,
+          "soru": "Hangi belge, Devletin emniyet yönetimi sorumluluklarını genel hatlarıyla tanımlar?",
+          "secenekler": ["Doc 8984", "Doc 9859", "Ek 19", "Ek 1"],
+          "dogru_secenek": "Ek 19",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 9,
+          "soru": "SSP'nin uygulanması ve idame ettirilmesi için hangi belge rehber olarak kullanılır?",
+          "secenekler": [
+            "Emniyet Yönetimi El Kitabı (Doc 9859)",
+            "Sivil Havacılık Tıbbı El Kitabı (Doc 8984)",
+            "Havacılık Emniyet Yönetimi El Kitabı (Doc 9859)",
+            "Uluslararası Havacılık Standartları (Ek 6)",
+            "İlave A"
+          ],
+          "dogru_secenek": "Emniyet Yönetimi El Kitabı (Doc 9859)",
+          "puan": 10,
+          "gold": 12.5
+        },
+        {
+          "id": 10,
+          "soru": "Bir SSP'nin uygulanması ve idame ettirilmesine ilişkin çerçeve hangi belgede yer alır?",
+          "secenekler": ["Ek 1", "Ek 6", "Ek 19", "Ek 11"],
+          "dogru_secenek": "Ek 11",
+          "puan": 10,
+          "gold": 12.5
+        }
+      ]
+    }
+  }
+}

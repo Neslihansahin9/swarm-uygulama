@@ -1,0 +1,43 @@
+{
+  "anket": [
+    {
+      "id": 1,
+      "soru": "Uygulamayı 3 günde bir kullanıyorum.",
+      "secenekler": [
+        "Kesinlikle katılmıyorum",
+        "Katılmıyorum",
+        "Kararsızım",
+        "Katılıyorum",
+        "Kesinlikle katılıyorum"
+      ]
+    },
+    {
+      "id": 2,
+      "soru": "Uygulamanın havacılık emniyet kültürüne katkısı olduğunu düşünüyorum.",
+      "secenekler": [
+        "Kesinlikle katılmıyorum",
+        "Katılmıyorum",
+        "Kararsızım",
+        "Katılıyorum",
+        "Kesinlikle katılıyorum"
+      ]
+    },
+    {
+      "id": 3,
+      "soru": "Uygulama içinde yer alan bilgilerin güncel ve doğru olduğunu düşünüyorum.",
+      "secenekler": [
+        "Kesinlikle katılmıyorum",
+        "Katılmıyorum",
+        "Kararsızım",
+        "Katılıyorum",
+        "Kesinlikle katılıyorum"
+      ]
+    },
+    {
+      "id": 4,
+      "soru": "Uygulama hakkında önerileriniz var mı?",
+      "secenekler": [],
+      "acikUclu": true
+    }
+  ]
+}
